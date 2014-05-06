@@ -3,9 +3,11 @@
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
+\usepackage{graphicx}
 
 \title{Parallel Computing Exercise 1}
 \date{}
+\author{Torsten Thoben, Marc Kassubeck}
 
 \begin{document}
 
@@ -22,9 +24,16 @@ Also a very important factor. For example if you want to solve a partial differe
 \item Underlying hardware (meaning number of transistors of CPU/GPU, clock rates, bus clock, etc.)(normal):\\
 Better hardware has made previously infeasible problems solvable for even moderately priced consumer hardware in recent years. Thus the demand for better runtime can be approached by consecutively better hardware, but a less complex algorithm or a different approach to the problem (see points 1 and 2) can have considerably better effects. There are even problems (like integer factorization for moderately large integers of say 500 decimal digits) for which there is no computer and known algorithm in existence, which can solve this problem in practical time. So better hardware can simplify many practical problems but some problems are so inherently difficult that probably no computer will calculate a solution to those in a practical span of time.
 
-\item Program language used (low):\\
+\item Program language (low):\\
 The use of a specific program language can have (even noticeable) impact on the run time of a program. Overhead like garbage collection or interpreting the code can slow down the execution of the program considerably, but neither does change the algorithmic complexity or the underlying hardware, so a change from a 'slow' to a 'fast' language doesn't have as much effect as changing one of the above points. 
 
 \end{itemize}
+
+\section{Task 2}
+\includegraphics[scale=0.5]{graph1.pdf}
+\includegraphics[scale=0.5]{graph2.pdf}
+
+As expected the runtime increases approximately linear in $n$.\\
+Surprisingly though, increasing $s$ decreases the runtime only at the transition $s=1 \rightarrow s=2$ and stays constant for constant $n$.
 
 \end{document}

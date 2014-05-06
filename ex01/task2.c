@@ -47,9 +47,9 @@ void calcSum(int n, int s)
 
 int main(void) 
 {
-	for(int s = 1 ; s <= 10; s++)
+	for(s = 1 ; s <= 10; s++)
 	{
-		for(int n=1000 ; n <= 10000000 ; n+=1000)
+		for(n=1000 ; n <= 10000000 ; n+=10000)
 		{	
 			calcSum(n,s);
 		}
