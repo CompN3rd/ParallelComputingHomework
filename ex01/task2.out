@@ -1,0 +1,208 @@
+########################################################################
+# Job 5695577.akb in Schlange serial
+# angeforderte Ressourcen: mem=1024mb,neednodes=node016,nodes=1:ppn=1,walltime=00:05:00
+########################################################################
+Sum: 1091191137495.000000 
+Computation time: 0.000012s 
+n:1000 s:1 
+ 
+Sum: 11748126106695.000000 
+Computation time: 0.000052s 
+n:10000 s:1 
+ 
+Sum: 119254829157988.000000 
+Computation time: 0.000564s 
+n:100000 s:1 
+ 
+Sum: 1193009667648170.000000 
+Computation time: 0.004755s 
+n:1000000 s:1 
+ 
+Sum: 11930567155550932.000000 
+Computation time: 0.046080s 
+n:10000000 s:1 
+ 
+Sum: 11931104060057516.000000 
+Computation time: 0.000003s 
+n:1000 s:2 
+ 
+Sum: 11936455086964484.000000 
+Computation time: 0.000021s 
+n:10000 s:2 
+ 
+Sum: 11990046602516112.000000 
+Computation time: 0.000198s 
+n:100000 s:2 
+ 
+Sum: 12527280627805662.000000 
+Computation time: 0.002779s 
+n:1000000 s:2 
+ 
+Sum: 17897830401911334.000000 
+Computation time: 0.028891s 
+n:10000000 s:2 
+ 
+Sum: 17898188409452272.000000 
+Computation time: 0.000002s 
+n:1000 s:3 
+ 
+Sum: 17901863007773510.000000 
+Computation time: 0.000014s 
+n:10000 s:3 
+ 
+Sum: 17937567071868388.000000 
+Computation time: 0.000134s 
+n:100000 s:3 
+ 
+Sum: 18294762642122904.000000 
+Computation time: 0.002571s 
+n:1000000 s:3 
+ 
+Sum: 21873545062942108.000000 
+Computation time: 0.027069s 
+n:10000000 s:3 
+ 
+Sum: 21873813269398148.000000 
+Computation time: 0.000002s 
+n:1000 s:4 
+ 
+Sum: 21876485619850488.000000 
+Computation time: 0.000011s 
+n:10000 s:4 
+ 
+Sum: 21903470255609340.000000 
+Computation time: 0.000104s 
+n:100000 s:4 
+ 
+Sum: 22172154674032652.000000 
+Computation time: 0.002520s 
+n:1000000 s:4 
+ 
+Sum: 24855339766328140.000000 
+Computation time: 0.026924s 
+n:10000000 s:4 
+ 
+Sum: 24855557281889456.000000 
+Computation time: 0.000003s 
+n:1000 s:5 
+ 
+Sum: 24857681569058828.000000 
+Computation time: 0.000009s 
+n:10000 s:5 
+ 
+Sum: 24879068438077656.000000 
+Computation time: 0.000085s 
+n:100000 s:5 
+ 
+Sum: 25093608214235096.000000 
+Computation time: 0.002519s 
+n:1000000 s:5 
+ 
+Sum: 27240985532419372.000000 
+Computation time: 0.026415s 
+n:10000000 s:5 
+ 
+Sum: 27241168529575396.000000 
+Computation time: 0.000002s 
+n:1000 s:6 
+ 
+Sum: 27242930558028568.000000 
+Computation time: 0.000008s 
+n:10000 s:6 
+ 
+Sum: 27260772983453544.000000 
+Computation time: 0.000074s 
+n:100000 s:6 
+ 
+Sum: 27439743967847192.000000 
+Computation time: 0.002453s 
+n:1000000 s:6 
+ 
+Sum: 29229959886742504.000000 
+Computation time: 0.026199s 
+n:10000000 s:6 
+ 
+Sum: 29230115409501624.000000 
+Computation time: 0.000002s 
+n:1000 s:7 
+ 
+Sum: 29231666881433648.000000 
+Computation time: 0.000007s 
+n:10000 s:7 
+ 
+Sum: 29246925467772040.000000 
+Computation time: 0.000065s 
+n:100000 s:7 
+ 
+Sum: 29399971285667728.000000 
+Computation time: 0.002444s 
+n:1000000 s:7 
+ 
+Sum: 30934555705889496.000000 
+Computation time: 0.026182s 
+n:10000000 s:7 
+ 
+Sum: 30934694098499592.000000 
+Computation time: 0.000001s 
+n:1000 s:8 
+ 
+Sum: 30936004338929820.000000 
+Computation time: 0.000006s 
+n:10000 s:8 
+ 
+Sum: 30949307454637516.000000 
+Computation time: 0.000057s 
+n:100000 s:8 
+ 
+Sum: 31083369562648056.000000 
+Computation time: 0.002435s 
+n:1000000 s:8 
+ 
+Sum: 32425048753184576.000000 
+Computation time: 0.025895s 
+n:10000000 s:8 
+ 
+Sum: 32425161286831444.000000 
+Computation time: 0.000002s 
+n:1000 s:9 
+ 
+Sum: 32426375631740064.000000 
+Computation time: 0.000005s 
+n:10000 s:9 
+ 
+Sum: 32438294080931044.000000 
+Computation time: 0.000051s 
+n:100000 s:9 
+ 
+Sum: 32557477163087360.000000 
+Computation time: 0.002398s 
+n:1000000 s:9 
+ 
+Sum: 33750164692811544.000000 
+Computation time: 0.025779s 
+n:10000000 s:9 
+ 
+Sum: 33750260079463480.000000 
+Computation time: 0.000002s 
+n:1000 s:10 
+ 
+Sum: 33751371815787364.000000 
+Computation time: 0.000005s 
+n:10000 s:10 
+ 
+Sum: 33762036422436360.000000 
+Computation time: 0.000048s 
+n:100000 s:10 
+ 
+Sum: 33869335892297064.000000 
+Computation time: 0.002386s 
+n:1000000 s:10 
+ 
+Sum: 34942205957919252.000000 
+Computation time: 0.025762s 
+n:10000000 s:10 
+ 
+########################################################################
+benutzte Ressourcen:
+cput=00:00:01,mem=0kb,vmem=0kb,walltime=00:00:02
+########################################################################
