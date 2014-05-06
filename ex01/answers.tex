@@ -4,6 +4,7 @@
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{graphicx}
+\usepackage{verbatim}
 
 \title{Parallel Computing Exercise 1}
 \date{}
@@ -13,7 +14,7 @@
 
 \maketitle
 
-\section{Task 1 - Run-Time influencing factors}
+\section{Task 1 - Runtime influencing factors}
 \begin{itemize}
 \item Algorithmic complexity of the program (notation: $O(g(n))$, or $\Theta(g(n))$)(high):\\
 This is a very high factor for program runtime as this is an estimation of the 'number of steps' that the algorithm has to make in order to produce the output. The importance of algorithmic complexity can be seen by the fact that one of the famous 'Millenium Problems' is indeed the question if $P=NP$.
@@ -29,11 +30,23 @@ The use of a specific program language can have (even noticeable) impact on the 
 
 \end{itemize}
 
-\section{Task 2}
+\section{Task 2 - Runtime analysis}
 \includegraphics[scale=0.5]{graph1.pdf}
 \includegraphics[scale=0.5]{graph2.pdf}
 
 As expected the runtime increases approximately linear in $n$.\\
 Surprisingly though, increasing $s$ decreases the runtime only at the transition $s=1 \rightarrow s=2$ and stays constant for constant $n$.
+
+\section{Task 3 - Roundtrip time}
+
+\subsection{1 Node, 2 Processors per Node}
+\verbatiminput{task3.out}
+
+\subsection{2 Nodes, 1 Processor per Node}
+\verbatiminput{task3_remote.out}
+
+\subsection{Analysis}
+As can be clearly seen the latency with 2 nodes and 1 processor per node is much higher than with 1 node and 2 processors per node (factor $\frac{0.012855s}{0.001747s}=7.3583285$).\\
+This can be expected as in the latter case both Processors are probably physical cores on one chip, whereas in the first case the program is executed on physically separated machines, which are connected via some kind of network connection. The higher latency can therefore be expected, keeping the physical distances of the memory of these 2 methods of invocation in mind.
 
 \end{document}

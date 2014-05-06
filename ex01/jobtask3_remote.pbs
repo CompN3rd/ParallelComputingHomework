@@ -1,0 +1,7 @@
+#!/bin/sh
+#PBS -N task3
+#PBS -o task3_remote.out
+#PBS -e task3_remote.err
+#PBS -l nodes=2:ppn=1
+#PBS -l walltime=00:05:00
+mpiexec -np 2 ./a.out
