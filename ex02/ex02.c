@@ -5,7 +5,6 @@
 
 int main(int argc, char** artgv)
 {
-	char proc_name[MPI_MAX_PROCESSOR_NAME];
 	int resultLen;
 	int whoAmI;
 	int worldSize;
@@ -16,10 +15,9 @@ int main(int argc, char** artgv)
 
 	char* x = (char*)malloc(1024 * sizeof(char));
     
-	signed char* response = (char*)malloc(sizeof(signed char));
+	signed char* response = (signed char*)malloc(sizeof(signed char));
 	signed int* eatReq = (int*)malloc( sizeof(signed int));
 	
-	MPI_Get_processor_name(proc_name, &resultLen);
 	MPI_Comm_rank(MPI_COMM_WORLD, &whoAmI);
 	MPI_Comm_size(MPI_COMM_WORLD, &worldSize);
 
@@ -89,7 +87,7 @@ int main(int argc, char** artgv)
 			}else if(response[0] == 'I')
 			{
 				// std::cout << "Endlich darf ich essen" << std::endl;
-				printf("Endlich darf ich essen... JAm Jam jam");
+				printf("Endlich darf ich essen... Jam Jam Jam");
 				hungrig = 0;
 			}
 		}
