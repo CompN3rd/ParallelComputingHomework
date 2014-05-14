@@ -42,7 +42,8 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
     <IncludePath>C:\Program Files\Microsoft MPI\Inc;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Program Files\Microsoft MPI\Lib;$(LibraryPath)</LibraryPath>
+    <LibraryPath>C:\Program Files\Microsoft MPI\Lib\i386;$(LibraryPath)</LibraryPath>
+    <OutDir>..\..\ex02\</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
@@ -58,6 +59,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>msmpi.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
