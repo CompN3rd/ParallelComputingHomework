@@ -1,0 +1,11 @@
+########################################################################
+# Job 5714827.akb in Schlange parallel
+# angeforderte Ressourcen: neednodes=node016:ppn=3+node015:ppn=3,nodes=2:ppn=3,walltime=00:05:00
+########################################################################
+mpiexec_node016.akb: cannot connect to local mpd (/tmp/mpd2.console_y0054314); possible causes:
+  1. no mpd is running on this host
+  2. an mpd is running but was started without a "console" (-n option)
+########################################################################
+benutzte Ressourcen:
+cput=00:00:00,mem=624kb,vmem=6228kb,walltime=00:00:00
+########################################################################
