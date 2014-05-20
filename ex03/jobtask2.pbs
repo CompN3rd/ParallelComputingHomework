@@ -1,0 +1,7 @@
+#!/bin/sh
+#PBS -N ex02
+#PBS -o ex02.out
+#PBS -e ex02.err
+#PBS -l nodes=2:ppn=3
+#PBS -l walltime=00:05:00
+mpiexec -np 6 ./ex02
