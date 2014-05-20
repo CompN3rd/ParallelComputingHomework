@@ -14,6 +14,7 @@
     <ProjectGuid>{BB3DAADE-D470-4DA4-B171-68E391A75E57}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>ex02</RootNamespace>
+    <ProjectName>Sheet02</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
