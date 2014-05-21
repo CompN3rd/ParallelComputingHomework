@@ -1,0 +1,132 @@
+Process of rank 3 from group 3 says:
+Comm 3: Name: Terra Rank: 4 
+Comm 3: Name: Terra Rank: 3 
+Comm 3: Name: Terra Rank: 1 
+Comm 3: Name: Terra Rank: 0 
+Comm 3: Name: Terra Rank: 2 
+Process of rank 3 from group 1 says:
+Comm 1: Name: Terra Rank: 4 
+Comm 1: Name: Terra Rank: 3 
+Comm 1: Name: Terra Rank: 2 
+Comm 1: Name: Terra Rank: 0 
+Comm 1: Name: Terra Rank: 1 
+Process of rank 0 from group 3 says:
+Comm 3: Name: Terra Rank: 4 
+Comm 3: Name: Terra Rank: 3 
+Comm 3: Name: Terra Rank: 1 
+Comm 3: Name: Terra Rank: 0 
+Comm 3: Name: Terra Rank: 2 
+Process of rank 4 from group 3 says:
+Comm 3: Name: Terra Rank: 4 
+Comm 3: Name: Terra Rank: 3 
+Comm 3: Name: Terra Rank: 1 
+Comm 3: Name: Terra Rank: 0 
+Comm 3: Name: Terra Rank: 2 
+Process of rank 2 from group 3 says:
+Comm 3: Name: Terra Rank: 4 
+Comm 3: Name: Terra Rank: 3 
+Comm 3: Name: Terra Rank: 1 
+Comm 3: Name: Terra Rank: 0 
+Comm 3: Name: Terra Rank: 2 
+Process of rank 1 from group 3 says:
+Comm 3: Name: Terra Rank: 4 
+Comm 3: Name: Terra Rank: 3 
+Comm 3: Name: Terra Rank: 1 
+Comm 3: Name: Terra Rank: 0 
+Comm 3: Name: Terra Rank: 2 
+Process of rank 3 from group 2 says:
+Comm 2: Name: Terra Rank: 4 
+Comm 2: Name: Terra Rank: 2 
+Comm 2: Name: Terra Rank: 0 
+Comm 2: Name: Terra Rank: 3 
+Comm 2: Name: Terra Rank: 1 
+Process of rank 4 from group 0 says:
+Comm 0: Name: Terra Rank: 5 
+Comm 0: Name: Terra Rank: 3 
+Comm 0: Name: Terra Rank: 1 
+Comm 0: Name: Terra Rank: 0 
+Comm 0: Name: Terra Rank: 4 
+Comm 0: Name: Terra Rank: 2 
+Process of rank 0 from group 0 says:
+Comm 0: Name: Terra Rank: 5 
+Comm 0: Name: Terra Rank: 3 
+Comm 0: Name: Terra Rank: 1 
+Comm 0: Name: Terra Rank: 0 
+Comm 0: Name: Terra Rank: 4 
+Comm 0: Name: Terra Rank: 2 
+Process of rank 5 from group 0 says:
+Comm 0: Name: Terra Rank: 5 
+Comm 0: Name: Terra Rank: 3 
+Comm 0: Name: Terra Rank: 1 
+Comm 0: Name: Terra Rank: 0 
+Comm 0: Name: Terra Rank: 4 
+Comm 0: Name: Terra Rank: 2 
+Process of rank 3 from group 0 says:
+Comm 0: Name: Terra Rank: 5 
+Comm 0: Name: Terra Rank: 3 
+Comm 0: Name: Terra Rank: 1 
+Comm 0: Name: Terra Rank: 0 
+Comm 0: Name: Terra Rank: 4 
+Comm 0: Name: Terra Rank: 2 
+Process of rank 2 from group 0 says:
+Comm 0: Name: Terra Rank: 5 
+Comm 0: Name: Terra Rank: 3 
+Comm 0: Name: Terra Rank: 1 
+Comm 0: Name: Terra Rank: 0 
+Comm 0: Name: Terra Rank: 4 
+Comm 0: Name: Terra Rank: 2 
+Process of rank 1 from group 0 says:
+Comm 0: Name: Terra Rank: 5 
+Comm 0: Name: Terra Rank: 3 
+Comm 0: Name: Terra Rank: 1 
+Comm 0: Name: Terra Rank: 0 
+Comm 0: Name: Terra Rank: 4 
+Comm 0: Name: Terra Rank: 2 
+Process of rank 1 from group 1 says:
+Comm 1: Name: Terra Rank: 4 
+Comm 1: Name: Terra Rank: 3 
+Comm 1: Name: Terra Rank: 2 
+Comm 1: Name: Terra Rank: 0 
+Comm 1: Name: Terra Rank: 1 
+Process of rank 2 from group 1 says:
+Comm 1: Name: Terra Rank: 4 
+Comm 1: Name: Terra Rank: 3 
+Comm 1: Name: Terra Rank: 2 
+Comm 1: Name: Terra Rank: 0 
+Comm 1: Name: Terra Rank: 1 
+Process of rank 0 from group 1 says:
+Comm 1: Name: Terra Rank: 4 
+Comm 1: Name: Terra Rank: 3 
+Comm 1: Name: Terra Rank: 2 
+Comm 1: Name: Terra Rank: 0 
+Comm 1: Name: Terra Rank: 1 
+Process of rank 4 from group 1 says:
+Comm 1: Name: Terra Rank: 4 
+Comm 1: Name: Terra Rank: 3 
+Comm 1: Name: Terra Rank: 2 
+Comm 1: Name: Terra Rank: 0 
+Comm 1: Name: Terra Rank: 1 
+Process of rank 0 from group 2 says:
+Comm 2: Name: Terra Rank: 4 
+Comm 2: Name: Terra Rank: 2 
+Comm 2: Name: Terra Rank: 0 
+Comm 2: Name: Terra Rank: 3 
+Comm 2: Name: Terra Rank: 1 
+Process of rank 4 from group 2 says:
+Comm 2: Name: Terra Rank: 4 
+Comm 2: Name: Terra Rank: 2 
+Comm 2: Name: Terra Rank: 0 
+Comm 2: Name: Terra Rank: 3 
+Comm 2: Name: Terra Rank: 1 
+Process of rank 2 from group 2 says:
+Comm 2: Name: Terra Rank: 4 
+Comm 2: Name: Terra Rank: 2 
+Comm 2: Name: Terra Rank: 0 
+Comm 2: Name: Terra Rank: 3 
+Comm 2: Name: Terra Rank: 1 
+Process of rank 1 from group 2 says:
+Comm 2: Name: Terra Rank: 4 
+Comm 2: Name: Terra Rank: 2 
+Comm 2: Name: Terra Rank: 0 
+Comm 2: Name: Terra Rank: 3 
+Comm 2: Name: Terra Rank: 1 
