@@ -1,8 +1,8 @@
 ########################################################################
-# Job 5844140.akb in Schlange parallel
-# angeforderte Ressourcen: neednodes=node016:ppn=3+node015:ppn=3,nodes=2:ppn=3,walltime=00:05:00
+# Job 5843978.akb in Schlange parallel
+# angeforderte Ressourcen: neednodes=2:ppn=3,nodes=2:ppn=3,walltime=00:05:00
 ########################################################################
-/var/torque/mom_priv/jobs/5844140.akb.SC: ./jobtask1a.pbs: /bin/sh^M: bad interpreter: No such file or directory
+/var/torque/mom_priv/jobs/5843978.akb.SC: ./jobtask2.pbs: /bin/sh^M: bad interpreter: No such file or directory
 ########################################################################
 benutzte Ressourcen:
 cput=00:00:00,mem=624kb,vmem=6228kb,walltime=00:00:00

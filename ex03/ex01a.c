@@ -30,12 +30,9 @@ int main(int argc, char **argv) {
 	{
 		if(whoAmI == 0)
 		{
- //			int size = 1000;
       			char* x = (char*)malloc(size * 1024 * sizeof(char));
       			start_time = get_time();
-//      		MPI_Send(x, size * 1024, MPI_CHAR, 1, 0, MPI_COMM_WORLD);
- //     		MPI_Recv(x, 0, MPI_CHAR, 1, 0, MPI_COMM_WORLD, &stat);
-			MPI_Bcast(&x,1, MPI_INT, 0, MPI_COMM_WORLD);
+			MPI_Bcast(&x, size, MPI_CHAR, 0, MPI_COMM_WORLD);
 			end_time = get_time();
       			runtime = end_time - start_time; 
       			printf("%i kb,%f s,%f kbs\n", size, runtime, (size/runtime));
@@ -43,9 +40,7 @@ int main(int argc, char **argv) {
   		}else
 		{ 
 	 		char* x = (char*)malloc(size * 1024 * sizeof(char));
-   // 			MPI_Recv(x, size*1024, MPI_CHAR, 0, 0, MPI_COMM_WORLD, &stat);
-   // 			MPI_Send(x, 0, MPI_CHAR, 0, 0, MPI_COMM_WORLD);
-			MPI_Bcast(&x,1, MPI_INT, 0, MPI_COMM_WORLD);
+			MPI_Bcast(&x, size, MPI_CHAR, 0, MPI_COMM_WORLD);
 			free(x);
   		}
  	}	
