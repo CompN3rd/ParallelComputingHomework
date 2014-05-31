@@ -5,6 +5,11 @@ Thumbs.db
 *.obj
 *.exe
 *.pdb
+*.vcxproj.filters
+*.vcxproj
+*.opensdf
+*.sdf
+*.sln
 *.user
 *.aps
 *.pch
