@@ -82,11 +82,12 @@ int main(int argc, char **argv) {
 				y[i] = rand()%50;
 			}
 
-			start_time = get_time();
+			
 			/*	I think the start mesurement must before
 				the broadcast because sending is part of the
 				algorithem
 			*/
+			// start_time = get_time(); 
 		}
 
 		/*
@@ -96,26 +97,25 @@ int main(int argc, char **argv) {
 		MPI_Bcast(x, n, MPI_DOUBLE, 0, MPI_COMM_WORLD);
 		MPI_Bcast(y, n, MPI_DOUBLE, 0, MPI_COMM_WORLD);
 
-
-		/*	calculating the start and end values
-			would be simpler if we just take an even
-			number of processors
-			the odd resolution is commented out
+		start_time = get_time(); 
+		
+		/*	
+			calculating the start and end values
 		*/
 		int part = n / numOfPro;
-		int residual = n % numOfPro;
-		// int bias = (whoAmI+1 - (numOfPro - residual));
-		int start = whoAmI*part ;// + bias;
+		int start = whoAmI*part ;
 		int end = start + part;
-		
-		/*if(bias != 0 )
-			end++;*/
 
+		int rest = n % numOfPro;
+		if(whoAmI+1 > numOfPro - rest)
+		{
+			start += whoAmI - numOfPro + rest;
+			end++;
+		}
 		double s = inner_product(x,y,start,end);
 		
 		/*
 			Now we have to send the local inner product
-			( Solution is just for an even number of processors )
 		*/
 		std::list<int> plist;
 		for(i=0; i < numOfPro; i++)
@@ -128,7 +128,7 @@ int main(int argc, char **argv) {
 
 		double s2;
 		
-		for(i = 0 ;  i <   log(numOfPro)/log(2) ; i++)
+		for(i = 0 ;  i <   log(numOfPro)/log(2); i++)
 		{
 			bool odd = false;
 			for(iter = plist.begin(); iter != plist.end(); iter++)
@@ -142,7 +142,7 @@ int main(int argc, char **argv) {
 					{
 						if(std::next(iter) != plist.end())
 						{
-						//	printf("%d empfaengt von %d Iteration %d \n",whoAmI,*(std::next(iter)),i);
+							//printf("%d empfaengt von %d Iteration %d \n",whoAmI,*(std::next(iter)),i);
 							MPI_Recv(&s2, 1, MPI_DOUBLE, *(std::next(iter)), 0, MPI_COMM_WORLD, &stat);
 							s += s2;
 						}
@@ -152,13 +152,17 @@ int main(int argc, char **argv) {
 					odd = false;
 					if(*iter == whoAmI)
 					{
-					//	printf("%d sendet zu %d Iteration %d \n",whoAmI, *std::prev(iter),i);
+						//printf("%d sendet zu %d Iteration %d \n",whoAmI, *std::prev(iter),i);
 						MPI_Send(&s, 1, MPI_DOUBLE, *std::prev(iter), 0, MPI_COMM_WORLD);
 					}
 				}
 			}
-			plist.pop_back();
-			MPI_Barrier(MPI_COMM_WORLD);
+
+			if(plist.size()+1 % 2 == 0)
+			{
+				plist.pop_back();
+			}
+		//	MPI_Barrier(MPI_COMM_WORLD); // reach next lvl of the tree
 		}
 
 		if(whoAmI == 0)
@@ -173,17 +177,16 @@ int main(int argc, char **argv) {
 			This algorithem only makes sence if n is very large.
 			The reason for that is the overhead of sending an resiving Data
 			*/
-
 			// Test Case
-			/*
+
 			double vergleich;
 			for(vergleich=0.,i=0;i<n;i++) 
 			{
 				vergleich += x[i] * y[i];
 			}
 			
-			 printf("vergleich %f  s = %f \n",vergleich,s);
-			*/
+			// printf("vergleich %f  s = %f \n",vergleich,s);
+			
 		}
 		delete[] x;
 		delete[] y;
