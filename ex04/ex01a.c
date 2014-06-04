@@ -55,7 +55,7 @@ int main(int argc, char **argv) {
 	MPI_Comm_rank(MPI_COMM_WORLD, &whoAmI);
 
 
-	for( n = 100 ; n < 1000 ; n += 100)
+	for( n = 1000 ; n <= 10000 ; n += 1000)
 	{
 		x = new double [n];
 		y = new double [n];

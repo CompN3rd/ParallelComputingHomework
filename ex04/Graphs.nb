@@ -1,0 +1,475 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 9.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[     18923,        466]
+NotebookOptionsPosition[     18100,        433]
+NotebookOutlinePosition[     18611,        453]
+CellTagsIndexPosition[     18568,        450]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+  "SetDirectory", "[", 
+   "\"\<C:\\\\Users\\\\WizardOf\\\\Documents\\\\Visual Studio \
+2013\\\\Projects\\\\ParallelComputingHomework\\\\ex04\>\"", "]"}], 
+  ";"}]], "Input",
+ CellChangeTimes->{{3.610903816749521*^9, 3.610903838058885*^9}, {
+  3.6109039975397277`*^9, 3.6109040153223295`*^9}}],
+
+Cell[CellGroupData[{
+
+Cell["\<\
+Warning, all Plots are generated with local execution time, as we don\
+\[CloseCurlyQuote]t have access to the cluster, so no real conclusions can be \
+drawn\
+\>", "Title",
+ CellChangeTimes->{{3.6109038567635913`*^9, 3.6109039097960973`*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"serialList", "=", 
+   RowBox[{"ToExpression", "/@", 
+    RowBox[{"(", 
+     RowBox[{
+      RowBox[{
+       RowBox[{"StringDrop", "[", 
+        RowBox[{"#", ",", " ", 
+         RowBox[{"-", "1"}]}], "]"}], "&"}], "/@", 
+      RowBox[{
+       RowBox[{"Import", "[", 
+        RowBox[{"\"\<ex01a_1.out\>\"", ",", " ", "\"\<Table\>\""}], "]"}], 
+       "\[LeftDoubleBracket]", 
+       RowBox[{"All", ",", " ", "2"}], "\[RightDoubleBracket]"}]}], ")"}]}]}],
+   ";"}], "\[IndentingNewLine]", 
+ RowBox[{"ListPlot", "[", 
+  RowBox[{"serialList", ",", " ", 
+   RowBox[{"Joined", "\[Rule]", "True"}], ",", " ", 
+   RowBox[{"Mesh", "\[Rule]", "All"}], ",", " ", 
+   RowBox[{"AxesLabel", "\[Rule]", 
+    RowBox[{"{", 
+     RowBox[{"\"\<Num. Elem. * 1000\>\"", ",", " ", "\"\<GFLOPS\>\""}], 
+     "}"}]}], ",", " ", 
+   RowBox[{"PlotLabel", "\[Rule]", "\"\<Serial, 1 Processor\>\""}]}], 
+  "]"}]}], "Input",
+ CellChangeTimes->{{3.6109039225320926`*^9, 3.6109039321728506`*^9}, {
+  3.6109040484305887`*^9, 3.610904063101856*^9}, {3.6109041206753063`*^9, 
+  3.610904182574009*^9}, {3.610905458165677*^9, 3.6109054588844385`*^9}}],
+
+Cell[BoxData[
+ GraphicsBox[{{}, 
+   GraphicsComplexBox[{{1., 162.384453}, {2., 389.721951}, {3., 592.483626}, {
+    4., 795.351657}, {5., 998.264308}, {6., 1184.966118}, {7., 1387.819092}, {
+    8., 1574.63543}, {9., 1777.449176}, {10., 1980.295927}}, {{{}, {}, 
+      {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+       LineBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}]}}, {
+      {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+       PointBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}]}, {}, {}}}], {}},
+  AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
+  Axes->True,
+  AxesLabel->{
+    FormBox["\"Num. Elem. * 1000\"", TraditionalForm], 
+    FormBox["\"GFLOPS\"", TraditionalForm]},
+  AxesOrigin->{0, 0},
+  Method->{},
+  PlotLabel->FormBox["\"Serial, 1 Processor\"", TraditionalForm],
+  PlotRange->{{0, 10.}, {0, 1980.295927}},
+  PlotRangeClipping->True,
+  PlotRangePadding->{{0.2, 0.2}, {39.60591854, 39.60591854}}]], "Output",
+ CellChangeTimes->{{3.6109041904490733`*^9, 3.6109042244167504`*^9}, {
+   3.6109042738228035`*^9, 3.610904283943556*^9}, 3.6109045587831926`*^9, 
+   3.6109054600093713`*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"perfBList", "=", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"ListPlot", "[", 
+      RowBox[{"#", ",", " ", 
+       RowBox[{"Joined", "\[Rule]", "True"}], ",", " ", 
+       RowBox[{"Mesh", "\[Rule]", "All"}], ",", " ", 
+       RowBox[{"AxesLabel", "\[Rule]", 
+        RowBox[{"{", 
+         RowBox[{"\"\<Num. Elem. * 1000\>\"", ",", " ", "\"\<GFLOPS\>\""}], 
+         "}"}]}]}], "]"}], "&"}], "/@", 
+    RowBox[{"ToExpression", "/@", 
+     RowBox[{
+      RowBox[{"(", 
+       RowBox[{
+        RowBox[{
+         RowBox[{
+          RowBox[{"StringDrop", "[", 
+           RowBox[{"#", ",", " ", 
+            RowBox[{"-", "1"}]}], "]"}], "&"}], "/@", 
+         RowBox[{
+          RowBox[{"Import", "[", 
+           RowBox[{
+            RowBox[{"\"\<ex01b_\>\"", "<>", 
+             RowBox[{"ToString", "[", "#", "]"}], "<>", "\"\<.out\>\""}], ",",
+             " ", "\"\<Table\>\""}], "]"}], "\[LeftDoubleBracket]", 
+          RowBox[{"All", ",", " ", "2"}], "\[RightDoubleBracket]"}]}], "&"}], 
+       ")"}], "/@", 
+      SuperscriptBox["2", 
+       RowBox[{
+        RowBox[{"Range", "[", "5", "]"}], "-", "1"}]]}]}]}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{"Grid", "[", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+      "\"\<Number of Processors\>\"", ",", " ", "\"\<1\>\"", ",", " ", 
+       "\"\<2\>\"", ",", " ", "\"\<4\>\"", ",", " ", "\"\<8\>\"", ",", " ", 
+       "\"\<16\>\""}], "}"}], ",", " ", 
+     RowBox[{"PrependTo", "[", 
+      RowBox[{"perfBList", ",", " ", "\"\<Rec. Doubl. Performance\>\""}], 
+      "]"}]}], "}"}], ",", " ", 
+   RowBox[{"Frame", "\[Rule]", "All"}]}], "]"}]}], "Input",
+ CellChangeTimes->{{3.6109043743216047`*^9, 3.6109044801296453`*^9}, {
+   3.610904590237482*^9, 3.6109046877201214`*^9}, {3.6109047279600635`*^9, 
+   3.610904757777111*^9}, 3.6109048153499994`*^9, {3.610904846800355*^9, 
+   3.610904854206706*^9}, 3.6109048904839973`*^9, {3.610904962817376*^9, 
+   3.610904983115816*^9}, {3.6109051413870497`*^9, 3.610905142808977*^9}, {
+   3.610905257980863*^9, 3.6109052669809804`*^9}, {3.610905377481549*^9, 
+   3.6109053784502783`*^9}}],
+
+Cell[BoxData[
+ TagBox[GridBox[{
+    {"\<\"Number of Processors\"\>", "\<\"1\"\>", "\<\"2\"\>", "\<\"4\"\>", "\
+\<\"8\"\>", "\<\"16\"\>"},
+    {"\<\"Rec. Doubl. Performance\"\>", 
+     GraphicsBox[{{}, 
+       GraphicsComplexBox[{{1., 14.762204}, {2., 226.582709}, {3., 
+        421.574352}, {4., 618.606745}, {5., 857.663224}, {6., 1056.475962}, {
+        7., 1283.359533}, {8., 1470.650012}, {9., 1730.674256}, {10., 
+        1964.325629}}, {{{}, {}, 
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           LineBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}]}}, {
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           PointBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}]}, {}, {}}}], {}},
+      AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
+      Axes->True,
+      AxesLabel->{
+        FormBox["\"Num. Elem. * 1000\"", TraditionalForm], 
+        FormBox["\"GFLOPS\"", TraditionalForm]},
+      AxesOrigin->{0, 0},
+      Method->{},
+      PlotRange->{{0, 10.}, {0, 1964.325629}},
+      PlotRangeClipping->True,
+      PlotRangePadding->{{0.2, 0.2}, {39.28651258, 39.28651258}}], 
+     GraphicsBox[{{}, 
+       GraphicsComplexBox[{{1., 5.117152}, {2., 99.418957}, {3., 219.21883}, {
+        4., 360.853985}, {5., 553.582709}, {6., 718.750093}, {7., 
+        932.44103}, {8., 1154.732373}, {9., 1506.08332}, {10., 
+        1917.924293}}, {{{}, {}, 
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           LineBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}]}}, {
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           PointBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}]}, {}, {}}}], {}},
+      AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
+      Axes->True,
+      AxesLabel->{
+        FormBox["\"Num. Elem. * 1000\"", TraditionalForm], 
+        FormBox["\"GFLOPS\"", TraditionalForm]},
+      AxesOrigin->{0, 0},
+      Method->{},
+      PlotRange->{{0, 10.}, {0, 1917.924293}},
+      PlotRangeClipping->True,
+      PlotRangePadding->{{0.2, 0.2}, {38.35848586, 38.35848586}}], 
+     GraphicsBox[{{}, 
+       GraphicsComplexBox[{{1., 1.983521}, {2., 36.085391}, {3., 87.687514}, {
+        4., 155.267835}, {5., 239.740537}, {6., 335.967424}, {7., 
+        450.386566}, {8., 581.674935}, {9., 720.061671}, {10., 
+        882.523182}}, {{{}, {}, 
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           LineBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}]}}, {
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           PointBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}]}, {}, {}}}], {}},
+      AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
+      Axes->True,
+      AxesLabel->{
+        FormBox["\"Num. Elem. * 1000\"", TraditionalForm], 
+        FormBox["\"GFLOPS\"", TraditionalForm]},
+      AxesOrigin->{0, 0},
+      Method->{},
+      PlotRange->{{0, 10.}, {0, 882.523182}},
+      PlotRangeClipping->True,
+      PlotRangePadding->{{0.2, 0.2}, {17.65046364, 17.65046364}}], 
+     GraphicsBox[{{}, 
+       GraphicsComplexBox[{{1., 1.323066}, {2., 19.603735}, {3., 28.997191}, {
+        4., 21.331267}, {5., 123.267403}, {6., 45.837691}, {7., 87.953158}, {
+        8., 72.472755}, {9., 49.58454}, {10., 278.762905}, {9.543656796727484,
+         278.762905}}, {{{}, {}, 
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           LineBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 11}]}}, {
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           PointBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11}]}, {}, {}}}], {}},
+      AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
+      Axes->True,
+      AxesLabel->{
+        FormBox["\"Num. Elem. * 1000\"", TraditionalForm], 
+        FormBox["\"GFLOPS\"", TraditionalForm]},
+      AxesOrigin->{0, 0},
+      Method->{},
+      PlotRange->{{0, 10.}, {0, 278.762905}},
+      PlotRangeClipping->True,
+      PlotRangePadding->{{0.2, 0.2}, {5.5752581, 5.5752581}}], 
+     GraphicsBox[{{}, 
+       GraphicsComplexBox[{{1., 0.454264}, {2., 4.757352}, {3., 3.855413}, {
+        4., 4.04402}, {5., 32.581113}, {6., 51.309248}, {7., 53.545283}, {8., 
+        54.793988}, {10., 25.524091}, {8.533219767116503, 
+        131.20185049999998`}, {9.38760660379449, 
+        131.20185049999998`}}, {{{}, {}, 
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           LineBox[{1, 2, 3, 4, 5, 6, 7, 8, 10}], LineBox[{11, 9}]}}, {
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           PointBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11}]}, {}, {}}}], {}},
+      AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
+      Axes->True,
+      AxesLabel->{
+        FormBox["\"Num. Elem. * 1000\"", TraditionalForm], 
+        FormBox["\"GFLOPS\"", TraditionalForm]},
+      AxesOrigin->{0, 0},
+      Method->{},
+      PlotRange->{{0, 10.}, {0, 131.20185049999998`}},
+      PlotRangeClipping->True,
+      PlotRangePadding->{{0.2, 0.2}, {2.6240370099999994`, 
+       2.6240370099999994`}}]}
+   },
+   AutoDelete->False,
+   GridBoxFrame->{"Columns" -> {{True}}, "Rows" -> {{True}}},
+   GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
+  "Grid"]], "Output",
+ CellChangeTimes->{
+  3.610905168972258*^9, 3.6109052238856273`*^9, {3.610905286543924*^9, 
+   3.6109053197496614`*^9}, {3.6109053502182627`*^9, 3.610905379778426*^9}}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"perfCList", "=", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"ListPlot", "[", 
+      RowBox[{"#", ",", " ", 
+       RowBox[{"Joined", "\[Rule]", "True"}], ",", " ", 
+       RowBox[{"Mesh", "\[Rule]", "All"}], ",", " ", 
+       RowBox[{"AxesLabel", "\[Rule]", 
+        RowBox[{"{", 
+         RowBox[{"\"\<Num. Elem. * 1000\>\"", ",", " ", "\"\<GFLOPS\>\""}], 
+         "}"}]}]}], "]"}], "&"}], "/@", 
+    RowBox[{"ToExpression", "/@", 
+     RowBox[{
+      RowBox[{"(", 
+       RowBox[{
+        RowBox[{
+         RowBox[{
+          RowBox[{"StringDrop", "[", 
+           RowBox[{"#", ",", " ", 
+            RowBox[{"-", "1"}]}], "]"}], "&"}], "/@", 
+         RowBox[{
+          RowBox[{"Import", "[", 
+           RowBox[{
+            RowBox[{"\"\<ex01c_\>\"", "<>", 
+             RowBox[{"ToString", "[", "#", "]"}], "<>", "\"\<.out\>\""}], ",",
+             " ", "\"\<Table\>\""}], "]"}], "\[LeftDoubleBracket]", 
+          RowBox[{"All", ",", " ", "2"}], "\[RightDoubleBracket]"}]}], "&"}], 
+       ")"}], "/@", 
+      SuperscriptBox["2", 
+       RowBox[{
+        RowBox[{"Range", "[", "5", "]"}], "-", "1"}]]}]}]}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{"Grid", "[", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+      "\"\<Number of Processors\>\"", ",", " ", "\"\<1\>\"", ",", " ", 
+       "\"\<2\>\"", ",", " ", "\"\<4\>\"", ",", " ", "\"\<8\>\"", ",", " ", 
+       "\"\<16\>\""}], "}"}], ",", " ", 
+     RowBox[{"PrependTo", "[", 
+      RowBox[{"perfCList", ",", " ", "\"\<Butterfly Performance\>\""}], 
+      "]"}]}], "}"}], ",", " ", 
+   RowBox[{"Frame", "\[Rule]", "All"}]}], "]"}]}], "Input",
+ CellChangeTimes->{{3.6109043743216047`*^9, 3.6109044801296453`*^9}, {
+   3.610904590237482*^9, 3.6109046877201214`*^9}, {3.6109047279600635`*^9, 
+   3.610904757777111*^9}, 3.6109048153499994`*^9, {3.610904846800355*^9, 
+   3.610904854206706*^9}, 3.6109048904839973`*^9, {3.610904962817376*^9, 
+   3.610904983115816*^9}, {3.6109051413870497`*^9, 3.610905142808977*^9}, {
+   3.610905257980863*^9, 3.6109052669809804`*^9}, {3.6109053633314533`*^9, 
+   3.6109053995295787`*^9}}],
+
+Cell[BoxData[
+ TagBox[GridBox[{
+    {"\<\"Number of Processors\"\>", "\<\"1\"\>", "\<\"2\"\>", "\<\"4\"\>", "\
+\<\"8\"\>", "\<\"16\"\>"},
+    {"\<\"Butterfly Performance\"\>", 
+     GraphicsBox[{{}, 
+       GraphicsComplexBox[{{1., 54.128108}, {2., 374.733013}, {3., 
+        562.099008}, {4., 764.16107}, {5., 982.163095}, {6., 1169.166958}, {
+        7., 1371.866979}, {8., 1558.888909}, {9., 1777.449744}, {10., 
+        1964.325629}}, {{{}, {}, 
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           LineBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}]}}, {
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           PointBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}]}, {}, {}}}], {}},
+      AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
+      Axes->True,
+      AxesLabel->{
+        FormBox["\"Num. Elem. * 1000\"", TraditionalForm], 
+        FormBox["\"GFLOPS\"", TraditionalForm]},
+      AxesOrigin->{0, 0},
+      Method->{},
+      PlotRange->{{0, 10.}, {0, 1964.325629}},
+      PlotRangeClipping->True,
+      PlotRangePadding->{{0.2, 0.2}, {39.28651258, 39.28651258}}], 
+     GraphicsBox[{{}, 
+       GraphicsComplexBox[{{1., 2.069468}, {2., 114.624161}, {3., 
+        223.692573}, {4., 333.095911}, {5., 464.840531}, {6., 592.483201}, {
+        7., 573.809828}, {8., 674.843652}, {9., 892.746009}, {10., 
+        1019.148129}}, {{{}, {}, 
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           LineBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}]}}, {
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           PointBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}]}, {}, {}}}], {}},
+      AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
+      Axes->True,
+      AxesLabel->{
+        FormBox["\"Num. Elem. * 1000\"", TraditionalForm], 
+        FormBox["\"GFLOPS\"", TraditionalForm]},
+      AxesOrigin->{0, 0},
+      Method->{},
+      PlotRange->{{0, 10.}, {0, 1019.148129}},
+      PlotRangeClipping->True,
+      PlotRangePadding->{{0.2, 0.2}, {20.38296258, 20.38296258}}], 
+     GraphicsBox[{{}, 
+       GraphicsComplexBox[{{1., 0.827085}, {2., 47.760075}, {3., 
+        169.937032}, {4., 265.117219}, {5., 356.105814}, {6., 468.917109}, {
+        7., 557.721719}, {8., 799.430282}, {9., 909.202186}, {10., 
+        1014.901633}}, {{{}, {}, 
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           LineBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}]}}, {
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           PointBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}]}, {}, {}}}], {}},
+      AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
+      Axes->True,
+      AxesLabel->{
+        FormBox["\"Num. Elem. * 1000\"", TraditionalForm], 
+        FormBox["\"GFLOPS\"", TraditionalForm]},
+      AxesOrigin->{0, 0},
+      Method->{},
+      PlotRange->{{0, 10.}, {0, 1014.901633}},
+      PlotRangeClipping->True,
+      PlotRangePadding->{{0.2, 0.2}, {20.29803266, 20.29803266}}], 
+     GraphicsBox[{{}, 
+       GraphicsComplexBox[{{1., 0.496892}, {2., 15.765463}, {3., 20.335692}, {
+        4., 14.038986}, {5., 7.71984}, {6., 5.506625}, {7., 6.337746}, {8., 
+        4.129507}, {9., 8.01043}, {10., 7.494658}}, {{{}, {}, 
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           LineBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}]}}, {
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           PointBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}]}, {}, {}}}], {}},
+      AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
+      Axes->True,
+      AxesLabel->{
+        FormBox["\"Num. Elem. * 1000\"", TraditionalForm], 
+        FormBox["\"GFLOPS\"", TraditionalForm]},
+      AxesOrigin->{0, 0},
+      Method->{},
+      PlotRange->{{0, 10.}, {0, 20.335692}},
+      PlotRangeClipping->True,
+      PlotRangePadding->{{0.2, 0.2}, {0.40671384000000005`, 
+       0.40671384000000005`}}], 
+     GraphicsBox[{{}, 
+       GraphicsComplexBox[{{1., 0.325115}, {2., 4.9034}, {3., 3.720617}, {4., 
+        1.825482}, {5., 1.836206}, {6., 1.498035}, {7., 1.600435}, {8., 
+        2.045169}, {9., 1.513431}, {10., 1.360192}}, {{{}, {}, 
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           LineBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}]}}, {
+          {RGBColor[0.24720000000000014`, 0.24, 0.6], 
+           PointBox[{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}]}, {}, {}}}], {}},
+      AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
+      Axes->True,
+      AxesLabel->{
+        FormBox["\"Num. Elem. * 1000\"", TraditionalForm], 
+        FormBox["\"GFLOPS\"", TraditionalForm]},
+      AxesOrigin->{0, 0},
+      Method->{},
+      PlotRange->{{0, 10.}, {0, 4.9034}},
+      PlotRangeClipping->True,
+      PlotRangePadding->{{0.2, 0.2}, {0.09806800000000002, 
+       0.09806800000000002}}]}
+   },
+   AutoDelete->False,
+   GridBoxFrame->{"Columns" -> {{True}}, "Rows" -> {{True}}},
+   GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
+  "Grid"]], "Output",
+ CellChangeTimes->{
+  3.610905168972258*^9, 3.6109052238856273`*^9, {3.610905286543924*^9, 
+   3.6109053197496614`*^9}, 3.6109053502182627`*^9, 3.6109054004982624`*^9}]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{1272, 594},
+WindowMargins->{{Automatic, 0}, {Automatic, 0}},
+PrintingCopies->1,
+PrintingPageRange->{32000, 32000},
+PrintingOptions->{"Magnification"->1.,
+"PaperOrientation"->"Portrait",
+"PaperSize"->{595.1999999999999, 841.68}},
+FrontEndVersion->"9.0 for Microsoft Windows (64-bit) (January 25, 2013)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[557, 20, 328, 8, 31, "Input"],
+Cell[CellGroupData[{
+Cell[910, 32, 251, 5, 198, "Title"],
+Cell[CellGroupData[{
+Cell[1186, 41, 1149, 28, 52, "Input"],
+Cell[2338, 71, 1095, 22, 216, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3470, 98, 2145, 53, 72, "Input"],
+Cell[5618, 153, 5208, 109, 119, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[10863, 267, 2145, 53, 72, "Input"],
+Cell[13011, 322, 5061, 107, 119, "Output"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
