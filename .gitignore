@@ -37,3 +37,6 @@ _ReSharper*/
 #latex files
 *.aux
 *.synctex.gz
+
+#movie files
+*.mp4
