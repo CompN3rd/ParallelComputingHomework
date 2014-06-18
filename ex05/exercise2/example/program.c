@@ -4,15 +4,6 @@
 #include <math.h>
 #include <mpi.h>
 
-/* ### Helper Specifications ### */
-
-unsigned int log2( unsigned int x )
-{
-  unsigned int ans = 0 ;
-  while( x>>=1 ) ans++;
-  return ans ;
-}
-
 /* ### Problem Specifications ### */
 
 #define M               1024    // Number of discrete points in Y-direction
@@ -22,13 +13,13 @@ unsigned int log2( unsigned int x )
 /* ### External Interfaces ### */
 
 extern int saveBMP(const char* pathToFile, unsigned char *pixeldata, 
-                   unsigned int width, unsigned int height, int invertY);
+		unsigned int width, unsigned int height, int invertY);
 
 extern void visualizeMap(const double *map, unsigned char /*retain*/ **pixels,
-                  unsigned int n);
+		unsigned int n);
 
-extern void resetTime();
-extern double getTime();
+//extern void resetTime();
+//extern double getTime();
 
 /* ### Implementation ### */
 
@@ -75,26 +66,26 @@ void solve(double *x, const double *s,
 			bottomHalo[haloIndex] = x[(yStartIndex - 1) * N + haloIndex];
 	}
 
-    int i, j, it;
-    double *x_new = (double*)malloc(sizeof(double)*M*N);
-    for (it = 0; it < iterations; it++)
-    {
-        //for (i = 0; i < M; i++)
+	int i, j, it;
+	double *x_new = (double*)malloc(sizeof(double)*M*N);
+	for (it = 0; it < iterations; it++)
+	{
+		//for (i = 0; i < M; i++)
 		for (i = yStartIndex; i < yStartIndex + numberOfLines; i++)
-        {
-            //for (j = 0; j < N; j++)
+		{
+			//for (j = 0; j < N; j++)
 			for (j = 0; j < N; j++)
-            {
-                double x_top   = (i < yStartIndex + numberOfLines - 1 ? x[(i+1)*N+j] : topHalo[j]);
-                double x_down  = (i > yStartIndex ? x[(i-1)*N+j] : bottomHalo[j]);
-                double x_left  = (j > 0 ? x[i*N+(j-1)] : 0);
-                double x_right = (j < N-1 ? x[i*N+(j+1)] : 0);
-                x_new[i*N+j] = (s[i*N+j]+x_top+x_down+x_left+x_right)/4;
-            }
-        }
+			{
+				double x_top   = (i < yStartIndex + numberOfLines - 1 ? x[(i+1)*N+j] : topHalo[j]);
+				double x_down  = (i > yStartIndex ? x[(i-1)*N+j] : bottomHalo[j]);
+				double x_left  = (j > 0 ? x[i*N+(j-1)] : 0);
+				double x_right = (j < N-1 ? x[i*N+(j+1)] : 0);
+				x_new[i*N+j] = (s[i*N+j]+x_top+x_down+x_left+x_right)/4;
+			}
+		}
 		//copy x_new to correct section of x
-        //memcpy(x, x_new, M*N*sizeof(double));
-		memcpy(x + yStartIndex * N, x_new + yStartIndex * N, numberOfLines * sizeof(double));
+		//memcpy(x, x_new, M*N*sizeof(double));
+		memcpy(x + yStartIndex * N, x_new + yStartIndex * N, numberOfLines * N * sizeof(double));
 
 		//exchange the correct halos
 		//send bottom line, receive top halo:
@@ -110,9 +101,9 @@ void solve(double *x, const double *s,
 
 		if (rank < size - 1)
 			MPI_Send(x + (yStartIndex + numberOfLines - 1) * N, N, MPI_DOUBLE, rank + 1, 1, MPI_COMM_WORLD);
-    }
+	}
 
-    free(x_new);
+	free(x_new);
 	free(bottomHalo);
 	free(topHalo);
 }
@@ -127,38 +118,37 @@ int main(int argc, char **argv)
 	int rank;
 	MPI_Comm_rank(MPI_COMM_WORLD, &rank);
 
-    // Set up problem
-    printf("Setting up problem...");
-    double *x = (double*)malloc(sizeof(double)*(M*N));
-    double *s = (double*)malloc(sizeof(double)*(M*N));
-    
-    memset(x, (char)0, sizeof(double)*M*N);
-    memset(s, (char)0, sizeof(double)*M*N);
-    
-    int i, j;
-    for (i = M/4*N; i < M/2*N; i += N)
-        for (j = N/4; j < N/2; j++) s[i+j] = 100;
+	// Set up problem
+	printf("Setting up problem...\n");
+	fflush(stdout);
+
+	double *x = (double*)malloc(sizeof(double)*(M*N));
+	double *s = (double*)malloc(sizeof(double)*(M*N));
+	double *sendbuf = (double*)malloc(sizeof(double) * (M*N / size));
+
+	memset(x, (char)0, sizeof(double)*M*N);
+	memset(s, (char)0, sizeof(double)*M*N);
+
+	int i, j;
+	for (i = M/4*N; i < M/2*N; i += N)
+		for (j = N/4; j < N/2; j++) s[i+j] = 100;
 
 	if (0 == rank)
 	{
 		printf("ok\n");
 		printf("Solving...\n");
-		resetTime();
+		fflush(stdout);
+		//resetTime();
 	}
 
-    unsigned int iteration;
-    for (iteration = 0; iteration < MAX_ITERATIONS; )
-    {
-        // solve
-        solve(x, s, M, N, 100);
-		iteration += 100;
-
-		// Gather x Buffer on processor 0
-		MPI_Gather(x + (rank * M / size) * N, M / size * N, MPI_DOUBLE, x, M / size * N, MPI_DOUBLE, 0, MPI_COMM_WORLD);
-
+	unsigned int iteration;
+	for (iteration = 0; iteration < MAX_ITERATIONS; )
+	{
+		//visualize before solving for initial solution
 		if (0 == rank)
 		{
 			printf("iterations: %d\n", iteration);
+			fflush(stdout);
 
 			// visualize
 			unsigned char *pixels;
@@ -166,30 +156,42 @@ int main(int argc, char **argv)
 
 			// save bitmap
 			printf("Saving bitmap...");
+			fflush(stdout);
 			char filename[64];
 			sprintf(filename, "images/heatmap%d.bmp", iteration);
 			if (!saveBMP(filename, pixels, M, N, 0))
 			{
 				printf("fail!\n");
+				fflush(stdout);
 				return 1;
 			}
 			else
 			{
 				printf("ok\n");
+				fflush(stdout);
 			}
 			free(pixels);
 		}
-    }
+
+		// solve
+		solve(x, s, M, N, 100);
+		iteration += 100;
+
+		// Gather x Buffer on processor 0
+		memcpy(sendbuf, x + (rank* M / size) * N, M / size * N * sizeof(double));
+		MPI_Gather(sendbuf, M / size * N, MPI_DOUBLE, x, M / size * N, MPI_DOUBLE, 0, MPI_COMM_WORLD);
+	}
 	if (0 == rank)
 	{
-		double timeNeededForSolving = getTime();
-		printf("End of computation!\nTime needed for solving: %fs\n", timeNeededForSolving);
+		//double timeNeededForSolving = getTime();
+		//printf("End of computation!\nTime needed for solving: %fs\n", timeNeededForSolving);
 	}
 
-    free(x);
-    free(s);
+	free(x);
+	free(s);
+	free(sendbuf);
 
 	MPI_Finalize();
 
-    return 0;
+	return 0;
 }

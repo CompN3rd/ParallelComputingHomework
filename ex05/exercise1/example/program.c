@@ -29,8 +29,8 @@ extern void printMatrixToFile(const char *pathToFile, const double *x,
 extern void visualizeMap(const double *map, unsigned char /*retain*/ **pixels,
                   unsigned int n);
 
-extern void resetTime();
-extern double getTime();
+//extern void resetTime();
+//extern double getTime();
 
 /* ### Implementation ### */
 
@@ -43,7 +43,8 @@ int main(int argc, char **argv)
 	MPI_Comm_rank(MPI_COMM_WORLD, &whoAmI);
 
     // Set up problem
-    printf("Setting up problem...");
+    printf("Setting up problem...\n");
+	fflush(stdout);
     double *A = (double*)malloc(sizeof(double)*(M*N)*(M*N));
     double *b = (double*)malloc(sizeof(double)*(M*N));
     double *x = (double*)malloc(sizeof(double)*(M*N));
@@ -51,8 +52,12 @@ int main(int argc, char **argv)
     setupProblem(A, b, M, N);
     memset(x, (char)0, sizeof(double)*M*N);
     
-    printf("ok\n");
-    
+	if (0 == whoAmI)
+	{
+		printf("ok\n");
+		fflush(stdout);
+	}
+
     // [Debug] Uncomment next line of code for printing a matrix/vector to a file.
     // Attention: Only do this for small matrices (i.e. M,N <= 8)!
     //printMatrixToFile("A.dat", A, M, N);
@@ -60,19 +65,17 @@ int main(int argc, char **argv)
 	if(0 == whoAmI)
 	{
 		printf("Solving...\n");
-		resetTime();
+		fflush(stdout);
+		//resetTime();
 	}
     unsigned int iteration;
     for (iteration = 0; iteration < MAX_ITERATIONS; )
     {
-        // solve
-        unsigned int iterationsDone = jacobi_solve(A, b, x, M*N, 10, 0.001);
-        if (iterationsDone < 10) break;
-        else iteration += iterationsDone;
-        
+		//visualize first, to see initial solution:
 		if(0 == whoAmI)
 		{
 			printf("iterations: %d\n", iteration);
+			fflush(stdout);
         
 			// visualize
 			unsigned char *pixels;
@@ -80,24 +83,32 @@ int main(int argc, char **argv)
         
 			// save bitmap
 			printf("Saving bitmap...");
+			fflush(stdout);
 			char filename[64];
 			sprintf(filename, "images/heatmap%d.bmp", iteration);
 			if (!saveBMP(filename, pixels, M, N, 0))
 			{
 				printf("fail!\n");
+				fflush(stdout);
 				return 1;
 			}
 			else
 			{
 				printf("ok\n");
+				fflush(stdout);
 			}
 			free(pixels);
 		}
+		
+        // solve
+        unsigned int iterationsDone = jacobi_solve(A, b, x, M*N, 10, 0.001);
+        if (iterationsDone < 10) break;
+        else iteration += iterationsDone;
     }
 	if(0 == whoAmI)
 	{
-		double timeNeededForSolving = getTime();
-		printf("End of computation!\nTime needed for solving: %fs\n", timeNeededForSolving);
+		//double timeNeededForSolving = getTime();
+		//printf("End of computation!\nTime needed for solving: %fs\n", timeNeededForSolving);
 	}
     
     free(A);

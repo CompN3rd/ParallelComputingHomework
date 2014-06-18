@@ -36,10 +36,13 @@ unsigned int jacobi_solve(const double *A,
 
 	//Calculate offsets and starting positions for Allgatherv
 	double* sendbuf = xNew + rank * n / size;
-	int sendcount = rank < size - 1 ? n / size : n - (size - 1) * n / size;
+	int sendcount = (rank < size - 1 ? n / size : n - (size - 1) * n / size);
+
 	double* recvbuf = (double*)malloc(sizeof(double) * n);
 	int* recvcount = (int*)malloc(sizeof(int) * size);
+
 	int* displs = (int*)malloc(sizeof(int) * size);
+
 	int processor;
 	for(processor = 0; processor < size; processor++)
 	{
@@ -52,7 +55,6 @@ unsigned int jacobi_solve(const double *A,
     int iterations, i, j;
     for (iterations = 0; iterations < maxIterations; iterations++)
     {
-        //for (i = 0; i < n; i++)
 		for (i = rank * n / size; i < (rank < size - 1 ? (rank + 1) * n / size : n); i++)
         {
             xNew[i] = 0.;
@@ -61,7 +63,6 @@ unsigned int jacobi_solve(const double *A,
                 if (j != i)
                     xNew[i] += A[i*n+j]*x[j];
             }
-            //xNew[i] = (b[i]-xNew[i])/A[i*n+i];
 			xNew[i] = (b[i]-xNew[i])/A[i*n+i];
         }
 

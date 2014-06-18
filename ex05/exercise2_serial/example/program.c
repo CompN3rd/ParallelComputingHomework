@@ -66,12 +66,7 @@ int main(int argc, char **argv)
     unsigned int iteration;
     for (iteration = 0; iteration < MAX_ITERATIONS; )
     {
-        // solve
-        solve(x, s, M, N, 100);
-	iteration += 100;
-        printf("iterations: %d\n", iteration);
-        
-        // visualize
+        // visualize before solving for seeing the initial solution
         unsigned char *pixels;
         visualizeMap(x, &pixels, M*N);
         
@@ -89,6 +84,11 @@ int main(int argc, char **argv)
             printf("ok\n");
         }
         free(pixels);
+
+        // solve
+        solve(x, s, M, N, 100);
+	iteration += 100;
+        printf("iterations: %d\n", iteration);
     }
     double timeNeededForSolving = getTime();
     printf("End of computation!\nTime needed for solving: %fs\n", timeNeededForSolving);

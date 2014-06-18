@@ -55,14 +55,7 @@ int main(int argc, char **argv)
     unsigned int iteration;
     for (iteration = 0; iteration < MAX_ITERATIONS; )
     {
-        // solve
-        unsigned int iterationsDone = jacobi_solve(A, b, x, M*N, 10, 0.001);
-        if (iterationsDone < 10) break;
-        else iteration += iterationsDone;
-        
-        printf("iterations: %d\n", iteration);
-        
-        // visualize
+        // visualize before solving for initial solution
         unsigned char *pixels;
         visualizeMap(x, &pixels, M*N);
         
@@ -80,6 +73,13 @@ int main(int argc, char **argv)
             printf("ok\n");
         }
         free(pixels);
+
+        // solve
+        unsigned int iterationsDone = jacobi_solve(A, b, x, M*N, 10, 0.001);
+        if (iterationsDone < 10) break;
+        else iteration += iterationsDone;
+        
+        printf("iterations: %d\n", iteration);
     }
     double timeNeededForSolving = getTime();
     printf("End of computation!\nTime needed for solving: %fs\n", timeNeededForSolving);

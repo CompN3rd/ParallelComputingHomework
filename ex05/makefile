@@ -1,7 +1,15 @@
-examples: libs example1 example2
+examples: libs example1 example2 example1_serial example2_serial
+
+queue:
+	qsub exercise1/job
+	qsub exercise2/job
+
+videos:
+	cd exercise1/images && make -f makefile video
+	cd exercise2/images && make -f makefile video
 
 example1:
-	gcc -o exercise1/heat exercise1/example/program.c\
+	mpicc -o exercise1/heat exercise1/example/program.c\
 				exercise1/example/problem.c\
 				exercise1/example/jacobi.c\
 				libs/bitmap.o\
@@ -9,7 +17,21 @@ example1:
 				libs/gettime.o
 
 example2:
-	gcc -o exercise2/heat exercise2/example/program.c\
+	mpicc -o exercise2/heat exercise2/example/program.c\
+				libs/bitmap.o\
+				libs/visualize.o\
+				libs/gettime.o
+
+example1_serial:
+	gcc -o exercise1_serial/heat exercise1_serial/example/program.c\
+				exercise1_serial/example/problem.c\
+				exercise1_serial/example/jacobi.c\
+				libs/bitmap.o\
+				libs/visualize.o\
+				libs/gettime.o
+
+example2_serial:
+	gcc -o exercise2_serial/heat exercise2_serial/example/program.c\
 				libs/bitmap.o\
 				libs/visualize.o\
 				libs/gettime.o
