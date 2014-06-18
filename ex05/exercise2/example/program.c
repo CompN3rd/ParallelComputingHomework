@@ -72,24 +72,30 @@ void solve(double *x, const double *s,
 	memset(topHalo, 0, sizeof(double) * N / xSize);
 	memset(bottomHalo, 0, sizeof(double) * N / xSize);
 
-	if(0 == xIndex)
+	//Send Buffers for Communication exchange:
+	double* horBuf = (double*)malloc(sizeof(double) * M / ySize);
+	double* vertBuf = (double*)malloc(sizeof(double) * N / xSize);
+
+	//Fill appropriate halos
+	//left, right halo
+	int haloIndex;
+	for (haloIndex = 0; haloIndex < M / ySize; haloIndex++)
 	{
-	}
-	else if(xIndex == xSize - 1)
-	{
-	}
-	else
-	{
+		if (xIndex > 0)
+			leftHalo[haloIndex] = x[(yIndex * M / ySize + haloIndex) * N + xIndex * N / xSize - 1];
+
+		if (xIndex < xSize - 1)
+			rightHalo[haloIndex] = x[(yIndex * M / ySize + haloIndex) * N + (xIndex + 1) * N / xSize];
 	}
 
-	if(0 == yIndex)
+	//top, bottom halo
+	for (haloIndex = 0; haloIndex < N / xSize; haloIndex++)
 	{
-	}
-	else if(yIndex == ySize - 1)
-	{
-	}
-	else
-	{
+		if (yIndex > 0)
+			bottomHalo[haloIndex] = x[(yIndex * M / ySize - 1) * N + xIndex * N / xSize + haloIndex];
+
+		if (yIndex < ySize - 1)
+			topHalo[haloIndex] = x[(yIndex * M / ySize + 1) * N + xIndex * N / xSize + haloIndex];
 	}
 
     int i, j, it;
@@ -97,21 +103,31 @@ void solve(double *x, const double *s,
     for (it = 0; it < iterations; it++)
     {
         //for (i = 0; i < M; i++)
-		for (i = yIndex * M / ySize; i < yIndex * M / ySize + ySize; i++)
+		for (i = yIndex * M / ySize; i < (yIndex + 1) * M / ySize; i++)
         {
             //for (j = 0; j < N; j++)
-			for (j = xIndex * N / xSize; j < xIndex * N / xSize + xSize; j++)
+			for (j = xIndex * N / xSize; j < (xIndex + 1) * N / xSize; j++)
             {
-                double x_top   = (i < M-1 ? x[(i+1)*N+j] : 0);
-                double x_down  = (i > 0   ? x[(i-1)*N+j] : 0);
-                double x_left  = (j > 0   ? x[i*N+(j-1)] : 0);
-                double x_right = (j < N-1 ? x[i*N+(j+1)] : 0);
+                double x_top   = (i < (yIndex + 1) * M / ySize - 1 ? x[(i+1)*N+j] : topHalo[j - xIndex * N / xSize]);
+                double x_down  = (i > yIndex * M / ySize   ? x[(i-1)*N+j] : bottomHalo[j - xIndex * N / xSize]);
+                double x_left  = (j > xIndex * N / xSize   ? x[i*N+(j-1)] : leftHalo[i - yIndex * M / ySize]);
+                double x_right = (j < (xIndex + 1) * N / xSize - 1 ? x[i*N+(j+1)] : rightHalo[i - yIndex * M / ySize]);
                 x_new[i*N+j] = (s[i*N+j]+x_top+x_down+x_left+x_right)/4;
             }
         }
         //memcpy(x, x_new, M*N*sizeof(double));
 
-		//exchange
+		//exchange the correct halos
+		if (xIndex > 0)
+		{
+			//Send left column and receive left halo
+			for (i = 0; i < M / ySize; i++)
+			{
+				horBuf[i] = x[(yIndex * M / ySize + i) * N + xIndex * N / xSize];
+			}
+			MPI_Send(horBuf, M / ySize, MPI_DOUBLE, yIndex * xSize + xIndex - 1, 0, MPI_COMM_WORLD);
+			
+		}
     }
 
     free(x_new);
@@ -119,6 +135,8 @@ void solve(double *x, const double *s,
 	free(rightHalo);
 	free(bottomHalo);
 	free(topHalo);
+	free(horBuf);
+	free(vertBuf);
 }
 
 int main(int argc, char **argv)
