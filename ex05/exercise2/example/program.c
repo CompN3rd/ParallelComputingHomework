@@ -42,9 +42,9 @@ void solve(double *x, const double *s,
 	//Do the division horizontally in number of lines:
 	numberOfLines = M / size;
 
-	//Allocate memory for halo nodes 2 extra line
 	unsigned int yStartIndex = rank * numberOfLines;
 
+	//Allocate memory for halo nodes 2 extra lines
 	double *topHalo, *bottomHalo;
 	topHalo = (double*) malloc(sizeof(double) * N);
 	bottomHalo = (double*) malloc(sizeof(double) * N);
@@ -179,7 +179,7 @@ int main(int argc, char **argv)
 
 		// Gather x Buffer on processor 0
 		memcpy(sendbuf, x + (rank* M / size) * N, M / size * N * sizeof(double));
-		MPI_Gather(sendbuf, M / size * N, MPI_DOUBLE, x, M / size * N, MPI_DOUBLE, 0, MPI_COMM_WORLD);
+		MPI_Allgather(sendbuf, M / size * N, MPI_DOUBLE, x, M / size * N, MPI_DOUBLE, MPI_COMM_WORLD);
 	}
 	if (0 == rank)
 	{
