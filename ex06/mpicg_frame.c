@@ -28,11 +28,11 @@ void readFile(char *fileName, int *n, double **value, int **colind, int **rbegin
 	(*colind)=(int*)malloc(sizeof(int)*m);
 	(*rbegin)=(int*)malloc(sizeof(int)*((*n)+1));
 	(*b)=(double*)malloc(sizeof(double)*(*n));
-	for(i=0;i&lt;(*n);i++){
+	for(i=0;i < (*n);i++){
 		(*b)[i]=1.0;
 	}
 	k=-1;
-	for(i=0;i&lt;m;i++){
+	for(i=0;i < m;i++){
 		fgets(buf,200,fp);
 		l=0;p=atoi(&buf[l]);
 		while(buf[l++]!=' '); q=atoi(&buf[l]);
@@ -65,14 +65,14 @@ void scatterData(int *n, int *m, double **value, int **colind, int **rbegin, dou
 		gcolind=(*colind);(*colind)=NULL;
 		grbegin=(*rbegin);(*rbegin)=NULL;
 		gb=(*b);(*b)=NULL;
-		for(i=0;i&lt;nproc;i++){
+		for(i=0;i < nproc;i++){
 			sendcnts[i]=0;
-			for(j=i*np;j&lt;(i+1)*np;j++){
+			for(j=i*np;j < (i+1)*np;j++){
 				sendcnts[i]+=grbegin[j+1]-grbegin[j];
 			}
 		}
 		displs[0]=0;
-		for(i=1;i&lt;nproc;i++){
+		for(i=1;i < nproc;i++){
 			displs[i]=displs[i-1]+sendcnts[i-1];
 		}
 	}
@@ -91,7 +91,7 @@ void scatterData(int *n, int *m, double **value, int **colind, int **rbegin, dou
 	MPI_Scatter(grbegin, np, MPI_INT, (*rbegin), np, MPI_INT, MPI_RANK_ROOT, MPI_COMM_WORLD);
 	MPI_Scatter(gb, np, MPI_DOUBLE, (*b), np, MPI_DOUBLE, MPI_RANK_ROOT, MPI_COMM_WORLD);
 	int offset=(*rbegin)[0];
-	for(i=0;i&lt;np;i++){
+	for(i=0;i < np;i++){
 		(*rbegin)[i]-=offset;
 	}
 	(*rbegin)[np]=(*m);
@@ -108,7 +108,7 @@ void scatterData(int *n, int *m, double **value, int **colind, int **rbegin, dou
 void writeFile(int n,double *answer){
 	FILE *fp=fopen("output.dat","w");
 	int i;
-	for(i=0;i&lt;n;i++){
+	for(i=0;i < n;i++){
 		fprintf(fp,"%.10f\n",answer[i]);
 	}
 	fclose(fp);
@@ -120,11 +120,12 @@ double* cg(int n, double *value, int* colind, int* rbegin, double *b, int rank, 
 
 	double *r_old, *r_new, *sendbuf, *z, *x;
 	double* d;
-	double numerator;
-	double denominator;
-	double alpha;
-	double beta;
-	double resNorm;
+	double numerator = 0.0;
+	double denominator = 0.0;
+	double alpha = 0.0;
+	double beta = 0.0;
+	double resNorm = 0.0;
+	double recvbuf = 0.0;
 
 	//x, r_old, r_new, z, sendbuf reduced size
 	x = (double*) malloc(n / nproc * sizeof(double));
@@ -142,12 +143,13 @@ double* cg(int n, double *value, int* colind, int* rbegin, double *b, int rank, 
 	//compute Residuum r = b - Ax, start with x = 0
 	for(row = 0; row < n / nproc; row++)
 	{
-		x[row] = 0;
+		x[row] = 0.0;
 
 		//residuum very simple :D
 		r_old[row] = b[row];
 		d[row] = b[row];
 	}
+
 
 	int k;
 	for(k = 0; k < (n < MAX_ITER ? n : MAX_ITER); k++)
@@ -157,22 +159,25 @@ double* cg(int n, double *value, int* colind, int* rbegin, double *b, int rank, 
 		MPI_Allgather(sendbuf, n / nproc, MPI_DOUBLE, d, n / nproc, MPI_DOUBLE, MPI_COMM_WORLD);
 
 		//compute z = A * d_k, and partSum = z^T * z
-		numerator = 0;
-		denominator = 0;
+		numerator = 0.0;
+		denominator = 0.0;
 		for(row = 0; row < n / nproc; row++)
 		{
-			z[row] = 0;
-			for(col = rbegin[row]; col < rbegin[row + 1] - 1; col++)
+			z[row] = 0.0;
+			for(col = rbegin[row]; col < rbegin[row + 1]; col++)
 			{
 				z[row] += value[col] * d[colind[col]];
 			}
-			numerator += z[row] * z[row];
+			numerator += r_old[row] * r_old[row];
 			denominator += d[rank * n / nproc + row] * z[row];
 		}
 
 		//compute sum of partial Sums for numerator and denominator
-		MPI_Allreduce(&numerator, &numerator, nproc, MPI_DOUBLE, MPI_SUM, MPI_COMM_WORLD);
-		MPI_Allreduce(&denominator, &denominator, nproc, MPI_DOUBLE, MPI_SUM, MPI_COMM_WORLD);
+		MPI_Allreduce(&numerator, &recvbuf, 1, MPI_DOUBLE, MPI_SUM, MPI_COMM_WORLD);
+		numerator = recvbuf;
+
+		MPI_Allreduce(&denominator, &recvbuf, 1, MPI_DOUBLE, MPI_SUM, MPI_COMM_WORLD);
+		denominator = recvbuf;
 
 		//alpha_k = (r_k^T * r_k) / (d_k^T * z)
 		alpha = numerator / denominator;
@@ -183,7 +188,7 @@ double* cg(int n, double *value, int* colind, int* rbegin, double *b, int rank, 
 		for(row = 0; row < n / nproc; row++)
 		{
 			//x_{k+1} = x_k + a_k * d_k
-			x[row] += alpha * d[rank * n / nproc];
+			x[row] += alpha * d[rank * n / nproc + row];
 
 			//r_{k+1} = r_k - a_k * z
 			r_new[row] = r_old[row] - alpha * z[row];
@@ -194,14 +199,17 @@ double* cg(int n, double *value, int* colind, int* rbegin, double *b, int rank, 
 		}
 
 		//compute new numerator (warning! save in denominator)
-		MPI_Allreduce(&denominator, &denominator, 1, MPI_DOUBLE, MPI_SUM, MPI_COMM_WORLD);
+		MPI_Allreduce(&denominator, &recvbuf, 1, MPI_DOUBLE, MPI_SUM, MPI_COMM_WORLD);
+		denominator = recvbuf;
 
 		//compute beta: new denominator is old numerator
 		beta = denominator / numerator;
 
 		//compute new d_{k+1}
 		for(row = 0; row < n / nproc; row++)
+		{
 			d[row] = r_new[row] + beta * d[rank * n / nproc + row];
+		}
 
 		//compute new resNorm in infinity norm:
 		resNorm = 0;
@@ -210,7 +218,8 @@ double* cg(int n, double *value, int* colind, int* rbegin, double *b, int rank, 
 			if(fabs(r_new[row]) > resNorm)
 				resNorm = fabs(r_new[row]);
 		}
-		MPI_Allreduce(&resNorm, &resNorm, 1, MPI_DOUBLE, MPI_MAX, MPI_COMM_WORLD);
+		MPI_Allreduce(&resNorm, &recvbuf, 1, MPI_DOUBLE, MPI_MAX, MPI_COMM_WORLD);
+		resNorm = recvbuf;
 
 		if(resNorm < CONST_TOL)
 			break;
