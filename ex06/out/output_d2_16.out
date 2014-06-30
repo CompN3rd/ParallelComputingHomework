@@ -1,0 +1,58 @@
+########################################################################
+# Job 5990648.akb in Schlange parallel
+# angeforderte Ressourcen: mem=200mb,neednodes=node016:ppn=4+node015:ppn=4+node014:ppn=4+node013:ppn=4,nodes=4:ppn=4,walltime=00:30:00
+########################################################################
+Process 0 on node016.akb out of 16
+Process 1 on node016.akb out of 16
+Process 3 on node016.akb out of 16
+Process 2 on node016.akb out of 16
+Process 5 on node015.akb out of 16
+Process 4 on node015.akb out of 16
+Process 8 on node014.akb out of 16
+Process 6 on node015.akb out of 16
+Process 7 on node015.akb out of 16
+Process 9 on node014.akb out of 16
+Process 11 on node014.akb out of 16
+Matrix size: 12160, #Non-zeros: 331362
+Process 13 on node013.akb out of 16
+Process 10 on node014.akb out of 16
+Process 15 on node013.akb out of 16
+Process 12 on node013.akb out of 16
+Process 14 on node013.akb out of 16
+Process 0 get n=12160, m=17139
+Process 1 get n=12160, m=20708
+Process 3 get n=12160, m=21104
+Process 2 get n=12160, m=20896
+Process 4 get n=12160, m=22031
+Process 5 get n=12160, m=19878
+Process 7 get n=12160, m=19950
+Process 6 get n=12160, m=21986
+Process 9 get n=12160, m=21351
+Process 11 get n=12160, m=21379
+Process 8 get n=12160, m=21264
+Process 10 get n=12160, m=21504
+Process 12 get n=12160, m=21424
+Process 13 get n=12160, m=21419
+Process 14 get n=12160, m=21480
+Process 15 get n=12160, m=17849
+Process 0 takes 1.4387519360 seconds
+PSIlogger: Child with rank 0 exited with status 1.
+PSIlogger: Child with rank 1 exited with status 1.
+PSIlogger: Child with rank 2 exited with status 1.
+PSIlogger: Child with rank 5 exited with status 1.
+PSIlogger: Child with rank 8 exited with status 1.
+PSIlogger: Child with rank 9 exited with status 1.
+PSIlogger: Child with rank 4 exited with status 1.
+PSIlogger: Child with rank 7 exited with status 1.
+PSIlogger: Child with rank 10 exited with status 1.
+PSIlogger: Child with rank 12 exited with status 1.
+PSIlogger: Child with rank 13 exited with status 1.
+PSIlogger: Child with rank 15 exited with status 1.
+PSIlogger: Child with rank 3 exited with status 1.
+PSIlogger: Child with rank 14 exited with status 1.
+PSIlogger: Child with rank 11 exited with status 1.
+PSIlogger: Child with rank 6 exited with status 1.
+########################################################################
+benutzte Ressourcen:
+cput=00:00:00,mem=628kb,vmem=6228kb,walltime=00:00:01
+########################################################################

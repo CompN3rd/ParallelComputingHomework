@@ -1,0 +1,34 @@
+########################################################################
+# Job 5990652.akb in Schlange parallel
+# angeforderte Ressourcen: mem=200mb,neednodes=node016:ppn=4+node015:ppn=4,nodes=2:ppn=4,walltime=00:30:00
+########################################################################
+Process 0 on node016.akb out of 8
+Process 1 on node016.akb out of 8
+Process 3 on node016.akb out of 8
+Process 2 on node016.akb out of 8
+Process 4 on node015.akb out of 8
+Process 5 on node015.akb out of 8
+Process 6 on node015.akb out of 8
+Process 7 on node015.akb out of 8
+Matrix size: 52912, #Non-zeros: 1565536
+Process 0 get n=52912, m=181924
+Process 1 get n=52912, m=206425
+Process 2 get n=52912, m=211457
+Process 3 get n=52912, m=207055
+Process 4 get n=52912, m=188827
+Process 5 get n=52912, m=202032
+Process 6 get n=52912, m=179256
+Process 7 get n=52912, m=188560
+Process 0 takes 5.9321599007 seconds
+PSIlogger: Child with rank 1 exited with status 1.
+PSIlogger: Child with rank 4 exited with status 1.
+PSIlogger: Child with rank 0 exited with status 1.
+PSIlogger: Child with rank 3 exited with status 1.
+PSIlogger: Child with rank 6 exited with status 1.
+PSIlogger: Child with rank 5 exited with status 1.
+PSIlogger: Child with rank 2 exited with status 1.
+PSIlogger: Child with rank 7 exited with status 1.
+########################################################################
+benutzte Ressourcen:
+cput=00:00:00,mem=628kb,vmem=6228kb,walltime=00:00:07
+########################################################################

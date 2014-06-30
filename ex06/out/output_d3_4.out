@@ -1,0 +1,22 @@
+########################################################################
+# Job 5990651.akb in Schlange serial
+# angeforderte Ressourcen: mem=200mb,neednodes=node016:ppn=4,nodes=1:ppn=4,walltime=00:30:00
+########################################################################
+Process 0 on node016.akb out of 4
+Process 1 on node016.akb out of 4
+Process 2 on node016.akb out of 4
+Process 3 on node016.akb out of 4
+Matrix size: 52912, #Non-zeros: 1565536
+Process 0 get n=52912, m=388349
+Process 1 get n=52912, m=418512
+Process 2 get n=52912, m=390859
+Process 3 get n=52912, m=367816
+Process 0 takes 2.9038438797 seconds
+PSIlogger: Child with rank 1 exited with status 1.
+PSIlogger: Child with rank 2 exited with status 1.
+PSIlogger: Child with rank 3 exited with status 1.
+PSIlogger: Child with rank 0 exited with status 1.
+########################################################################
+benutzte Ressourcen:
+cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:03
+########################################################################
