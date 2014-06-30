@@ -1,0 +1,16 @@
+\documentclass[10pt,a4paper,oneside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\author{Mac Kassubeck, Torsten Thoben}
+\title{Homework Prallel-Computing exercise 6}
+\begin{document}
+\section{Task 1}
+What could be a problem by distributing an equal number of rows to each processor? \\
+
+In case of a big sparse matrix it is not a good idea, because every processor should calculate the same number of operations and with some matrices the number of non-zero elements is not equally distributed by each row. 
+A better approuch is to send the same number of non-zero matrix elements. This would lead to a more complex implementation and more overhead from sending and receiving. 
+
+\end{document}
