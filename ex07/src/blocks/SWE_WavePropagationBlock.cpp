@@ -133,6 +133,10 @@ SWE_WavePropagationBlock::computeNumericalFluxes ()
 	 * compute the net-updates for the vertical edges
 	 **************************************************************************************/
 
+	int index[2];
+
+	MPI_Cart_coords(comm_cart, rank, 2, index);
+
 	for (int i = 1; i < nx+2; i++) {
 		for (int j=1; j < ny+1; ++j) {
 			float maxEdgeSpeed;
