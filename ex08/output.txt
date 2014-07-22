@@ -1,0 +1,4446 @@
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 1-th time)
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 2-th time)
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 1 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 3-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 1-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 4-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 2-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 5-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 3-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 6-th time)
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 1-th time)
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 7-th time)
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 1 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 1 is eating (for the 4-th time)
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 8-th time)
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 2-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 1 has no right to take up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 5-th time)
+Philosopher 3 is taking up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is eating (for the 1-th time)
+Philosopher 0 is thinking
+Philosopher 2 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 4 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 3 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is eating (for the 2-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 9-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is eating (for the 3-th time)
+Philosopher 0 is laying down his forks
+Philosopher 2 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 3 is eating (for the 3-th time)
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 6-th time)
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 0 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is eating (for the 4-th time)
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 1-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 5-th time)
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 6-th time)
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 7-th time)
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 8-th time)
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 9-th time)
+Philosopher 1 is eating (for the 7-th time)
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 3 is eating (for the 10-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 0 is eating (for the 10-th time)
+Philosopher 3 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 11-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 8-th time)
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 1 is laying down his forks
+Philosopher 4 is eating (for the 2-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is eating (for the 4-th time)
+Philosopher 0 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is eating (for the 11-th time)
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 4 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 0 is laying down his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is eating (for the 12-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 12-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 13-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 14-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 15-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is eating (for the 16-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 17-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 1 is eating (for the 9-th time)
+Philosopher 4 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is eating (for the 3-th time)
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 0 is taking up his forks
+Philosopher 3 is eating (for the 18-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 0 is eating (for the 13-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 19-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is eating (for the 5-th time)
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 6-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 7-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 8-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 9-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 2 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is eating (for the 10-th time)
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 4 is eating (for the 4-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 0 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is eating (for the 11-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 1 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 10-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 2 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is eating (for the 12-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 11-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 13-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 14-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 12-th time)
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 5-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 15-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 2 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 1 is eating (for the 13-th time)
+Philosopher 3 is eating (for the 20-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 21-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 1 is eating (for the 14-th time)
+Philosopher 3 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 2 is eating (for the 16-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 4 is eating (for the 6-th time)
+Philosopher 2 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 15-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 0 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is eating (for the 14-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 16-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 15-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 0 is laying down his forks
+Philosopher 2 is eating (for the 17-th time)
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 16-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 18-th time)
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 2 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is eating (for the 17-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 22-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 1 is taking up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 1 is eating (for the 17-th time)
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 23-th time)
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 18-th time)
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 18-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 1 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 19-th time)
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 20-th time)
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 21-th time)
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 22-th time)
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 0 is taking up his forks
+Philosopher 3 is eating (for the 24-th time)
+Philosopher 0 is eating (for the 23-th time)
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 25-th time)
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 24-th time)
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 26-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 3 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 25-th time)
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 27-th time)
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 7-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 28-th time)
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 26-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 3 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 8-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 19-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 1 is laying down his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 3 is eating (for the 29-th time)
+Philosopher 0 is taking up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is eating (for the 27-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 1 has no right to take up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 2 has no right to take up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 28-th time)
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 29-th time)
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 30-th time)
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 31-th time)
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 32-th time)
+Philosopher 3 is laying down his forks
+Philosopher 0 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 30-th time)
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 33-th time)
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 31-th time)
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 34-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 9-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 32-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 0 is taking up his forks
+Philosopher 2 is thinking
+Philosopher 0 is eating (for the 35-th time)
+Philosopher 3 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 19-th time)
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 36-th time)
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 0 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 20-th time)
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 37-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 2 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 4 is eating (for the 10-th time)
+Philosopher 0 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 21-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 2 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 22-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is eating (for the 23-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 2 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 2 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 3 is eating (for the 33-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 1 is eating (for the 20-th time)
+Philosopher 3 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 11-th time)
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 3 is eating (for the 34-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 1 is eating (for the 21-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is eating (for the 22-th time)
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 12-th time)
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 2 is eating (for the 24-th time)
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 13-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 3 has no right to take up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 4 is taking up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is eating (for the 14-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 25-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 26-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 27-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 28-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 2 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is eating (for the 29-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 30-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is eating (for the 35-th time)
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 38-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 39-th time)
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 36-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 2 is eating (for the 31-th time)
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 15-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is eating (for the 40-th time)
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 1 has no right to take up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 4 is taking up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 4 is eating (for the 16-th time)
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 4 is laying down his forks
+Philosopher 1 is eating (for the 23-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 2 is eating (for the 32-th time)
+Philosopher 4 is taking up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is eating (for the 17-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 4 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 1 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is eating (for the 24-th time)
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 37-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 3 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 38-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 39-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 40-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is eating (for the 41-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 0 is eating (for the 41-th time)
+Philosopher 3 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is eating (for the 42-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 0 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 42-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 43-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 1 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 1 is eating (for the 25-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 4 is eating (for the 18-th time)
+Philosopher 3 is thinking
+Philosopher 1 is laying down his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 3 is taking up his forks
+Philosopher 4 is thinking
+Philosopher 3 is eating (for the 44-th time)
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 4 is taking up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is eating (for the 19-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is eating (for the 45-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 4 is thinking
+Philosopher 2 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 4 is taking up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 4 is eating (for the 20-th time)
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 1 is eating (for the 26-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 1 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 2 is eating (for the 33-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 2 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is eating (for the 43-th time)
+Philosopher 4 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is eating (for the 46-th time)
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 1 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 1 is eating (for the 27-th time)
+Philosopher 3 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 34-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 4 is taking up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 4 is eating (for the 21-th time)
+Philosopher 2 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 3 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 1 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is eating (for the 28-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 0 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is eating (for the 44-th time)
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 35-th time)
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 45-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 0 is eating (for the 46-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 4 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 4 is eating (for the 22-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 3 has no right to take up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is eating (for the 47-th time)
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 0 is laying down his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is eating (for the 23-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 3 has no right to take up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 0 is eating (for the 48-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 2 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 4 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is eating (for the 47-th time)
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 3 is taking up his forks
+Philosopher 0 is eating (for the 49-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 3 is eating (for the 48-th time)
+Philosopher 0 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is eating (for the 36-th time)
+Philosopher 1 is thinking
+Philosopher 4 is taking up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 4 is eating (for the 24-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 1 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 2 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 4 is thinking
+Philosopher 0 is taking up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 0 is eating (for the 50-th time)
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is eating (for the 49-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is eating (for the 37-th time)
+Philosopher 1 is thinking
+Philosopher 0 is taking up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 0 is eating (for the 51-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 1 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 29-th time)
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 25-th time)
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is eating (for the 38-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 1 has no right to take up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 4 is eating (for the 26-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 1 is eating (for the 30-th time)
+Philosopher 0 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is eating (for the 39-th time)
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 27-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is eating (for the 52-th time)
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 28-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 53-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 29-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 4 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 0 is taking up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is eating (for the 54-th time)
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 0 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 0 is taking up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is eating (for the 55-th time)
+Philosopher 2 is taking up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 2 is eating (for the 40-th time)
+Philosopher 0 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 2 is laying down his forks
+Philosopher 4 is eating (for the 30-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 4 is thinking
+Philosopher 1 is eating (for the 31-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is eating (for the 50-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 1 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 0 is taking up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 0 is eating (for the 56-th time)
+Philosopher 3 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 0 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 1 is eating (for the 32-th time)
+Philosopher 3 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is eating (for the 51-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 4 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 4 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 4 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is eating (for the 33-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 1 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 2 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is eating (for the 41-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 1 is taking up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is eating (for the 34-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 1 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 42-th time)
+Philosopher 4 is taking up his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 4 is eating (for the 31-th time)
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 1 is taking up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 1 is eating (for the 35-th time)
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 3 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 0 is eating (for the 57-th time)
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 43-th time)
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 32-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is taking up his forks
+Philosopher 4 is thinking
+Philosopher 1 has no right to take up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is eating (for the 58-th time)
+Philosopher 3 is thinking
+Philosopher 2 is laying down his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 3 is eating (for the 52-th time)
+Philosopher 0 is thinking
+Philosopher 2 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 1 is taking up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 1 is eating (for the 36-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 2 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is eating (for the 33-th time)
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 44-th time)
+Philosopher 4 is laying down his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 0 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is eating (for the 59-th time)
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 0 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 37-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 0 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 4 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is eating (for the 34-th time)
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 45-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 60-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 0 is laying down his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 4 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 4 is eating (for the 35-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 0 is thinking
+Philosopher 1 is taking up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is eating (for the 38-th time)
+Philosopher 4 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 4 is eating (for the 36-th time)
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 46-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is eating (for the 61-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 4 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 2 is eating (for the 47-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 2 is thinking
+Philosopher 0 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 4 is eating (for the 37-th time)
+Philosopher 0 is thinking
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 39-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 0 has no right to take up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 3 is eating (for the 53-th time)
+Philosopher 1 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is eating (for the 62-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 48-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 3 is eating (for the 54-th time)
+Philosopher 4 is thinking
+Philosopher 1 has no right to take up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is eating (for the 49-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is eating (for the 63-th time)
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is eating (for the 55-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 0 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 1 is taking up his forks
+Philosopher 2 is thinking
+Philosopher 0 has no right to take up his forks
+Philosopher 1 is eating (for the 40-th time)
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 1 is laying down his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 1 is taking up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is eating (for the 41-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 3 is eating (for the 56-th time)
+Philosopher 1 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 64-th time)
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 57-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 1 is taking up his forks
+Philosopher 2 is thinking
+Philosopher 0 has no right to take up his forks
+Philosopher 1 is eating (for the 42-th time)
+Philosopher 0 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 50-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 0 is eating (for the 65-th time)
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 0 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is eating (for the 58-th time)
+Philosopher 1 is eating (for the 43-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 1 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 66-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 0 is laying down his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 2 has no right to take up his forks
+Philosopher 1 is eating (for the 44-th time)
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 2 is thinking
+Philosopher 0 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 3 is eating (for the 59-th time)
+Philosopher 1 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 0 is taking up his forks
+Philosopher 2 is eating (for the 51-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 0 is eating (for the 67-th time)
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 3 is eating (for the 60-th time)
+Philosopher 1 is taking up his forks
+Philosopher 3 is laying down his forks
+Philosopher 1 is eating (for the 45-th time)
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 61-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 46-th time)
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is eating (for the 62-th time)
+Philosopher 1 is thinking
+Philosopher 4 has no right to take up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 0 is eating (for the 68-th time)
+Philosopher 3 is thinking
+Philosopher 1 has no right to take up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 3 has no right to take up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 2 is eating (for the 52-th time)
+Philosopher 0 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 0 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 0 is taking up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is eating (for the 69-th time)
+Philosopher 3 is taking up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is eating (for the 63-th time)
+Philosopher 0 is laying down his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 4 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is eating (for the 53-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 38-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 1 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 1 is eating (for the 47-th time)
+Philosopher 2 is thinking
+Philosopher 0 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is eating (for the 64-th time)
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 0 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is eating (for the 70-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 54-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is eating (for the 65-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 2 is taking up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 2 is eating (for the 55-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 66-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 67-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 2 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is eating (for the 56-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 2 is laying down his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 3 is eating (for the 68-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 0 is taking up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is eating (for the 71-th time)
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 57-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is eating (for the 69-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 48-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 72-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 1 is taking up his forks
+Philosopher 4 is thinking
+Philosopher 1 is eating (for the 49-th time)
+Philosopher 4 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 0 is taking up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is eating (for the 73-th time)
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 58-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 0 is laying down his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is eating (for the 70-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 50-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 0 has no right to take up his forks
+Philosopher 4 is eating (for the 39-th time)
+Philosopher 0 is thinking
+Philosopher 1 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is eating (for the 51-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 3 is taking up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is eating (for the 71-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 4 is eating (for the 40-th time)
+Philosopher 3 is thinking
+Philosopher 2 has no right to take up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is eating (for the 72-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 2 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 4 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 4 is eating (for the 41-th time)
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 59-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 4 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 0 is taking up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is eating (for the 74-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 1 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 3 is eating (for the 73-th time)
+Philosopher 0 is taking up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 0 is eating (for the 75-th time)
+Philosopher 2 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is eating (for the 60-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 2 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 3 is eating (for the 74-th time)
+Philosopher 4 is thinking
+Philosopher 2 has no right to take up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is eating (for the 52-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is eating (for the 42-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 3 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is eating (for the 43-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 1 is laying down his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 0 is eating (for the 76-th time)
+Philosopher 1 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is eating (for the 75-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 4 has no right to take up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 3 is eating (for the 76-th time)
+Philosopher 1 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 3 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 1 is eating (for the 53-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 1 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is eating (for the 77-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 54-th time)
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 55-th time)
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 56-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 1 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is eating (for the 77-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 2 is thinking
+Philosopher 1 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is eating (for the 57-th time)
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 2 has no right to take up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 2 is thinking
+Philosopher 4 is eating (for the 44-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 2 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 1 is laying down his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is eating (for the 78-th time)
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 61-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 0 is laying down his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 0 has no right to take up his forks
+Philosopher 4 is eating (for the 45-th time)
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is eating (for the 58-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 0 has no right to take up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 4 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 4 is eating (for the 46-th time)
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is eating (for the 62-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 3 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 1 is taking up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 1 is eating (for the 59-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 3 is thinking
+Philosopher 1 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 63-th time)
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 79-th time)
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 0 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 1 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is eating (for the 60-th time)
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 47-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is eating (for the 64-th time)
+Philosopher 4 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 0 is taking up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is eating (for the 80-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 78-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 2 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 1 is eating (for the 61-th time)
+Philosopher 4 is eating (for the 48-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 2 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 3 is taking up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is eating (for the 79-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 0 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 1 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is eating (for the 49-th time)
+Philosopher 2 is taking up his forks
+Philosopher 4 is laying down his forks
+Philosopher 2 is eating (for the 65-th time)
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 50-th time)
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 66-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 51-th time)
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 67-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 52-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 4 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 68-th time)
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 81-th time)
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 0 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 2 is eating (for the 69-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 4 is eating (for the 53-th time)
+Philosopher 1 is thinking
+Philosopher 3 has no right to take up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 1 is taking up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 1 is eating (for the 62-th time)
+Philosopher 3 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 80-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 3 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is eating (for the 70-th time)
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 54-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 3 has no right to take up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 0 is taking up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is eating (for the 82-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 3 has no right to take up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 71-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 72-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 2 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is eating (for the 73-th time)
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 55-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 4 is taking up his forks
+Philosopher 1 is eating (for the 63-th time)
+Philosopher 4 is eating (for the 56-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 74-th time)
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 57-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is eating (for the 81-th time)
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 83-th time)
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 0 is laying down his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 2 is eating (for the 75-th time)
+Philosopher 0 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is eating (for the 84-th time)
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is eating (for the 82-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 2 is eating (for the 76-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 4 is eating (for the 58-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 2 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 4 is taking up his forks
+Philosopher 2 is eating (for the 77-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 4 is eating (for the 59-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 2 is laying down his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 3 is eating (for the 83-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 1 is eating (for the 64-th time)
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 2 is eating (for the 78-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is eating (for the 85-th time)
+Philosopher 3 is thinking
+Philosopher 2 is laying down his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 2 is eating (for the 79-th time)
+Philosopher 3 is thinking
+Philosopher 0 is laying down his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 4 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is eating (for the 60-th time)
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 65-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is eating (for the 80-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 1 is eating (for the 66-th time)
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is eating (for the 81-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 67-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 82-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 2 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 68-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is eating (for the 83-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 0 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 0 is eating (for the 86-th time)
+Philosopher 2 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 61-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 69-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 2 has no right to take up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 1 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 84-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 2 is laying down his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 2 is thinking
+Philosopher 0 is eating (for the 87-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 70-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is eating (for the 84-th time)
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 85-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 86-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 3 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 87-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is eating (for the 62-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 4 is eating (for the 63-th time)
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 88-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 4 is taking up his forks
+Philosopher 2 is thinking
+Philosopher 4 is eating (for the 64-th time)
+Philosopher 2 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 3 is eating (for the 89-th time)
+Philosopher 0 is taking up his forks
+Philosopher 2 is thinking
+Philosopher 4 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is eating (for the 88-th time)
+Philosopher 4 is thinking
+Philosopher 1 has no right to take up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 2 has no right to take up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 4 has no right to take up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 1 has no right to take up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 3 is eating (for the 90-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 1 is eating (for the 71-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 4 is eating (for the 65-th time)
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 0 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 0 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 0 is eating (for the 89-th time)
+Philosopher 2 is eating (for the 85-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 4 has no right to take up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 2 is laying down his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 86-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 90-th time)
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 3 is eating (for the 91-th time)
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 1 is eating (for the 72-th time)
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 91-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 73-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 3 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is eating (for the 92-th time)
+Philosopher 4 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is eating (for the 87-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 2 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 2 is thinking
+Philosopher 3 has no right to take up his forks
+Philosopher 4 is eating (for the 66-th time)
+Philosopher 2 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 2 is eating (for the 88-th time)
+Philosopher 0 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 2 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 0 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is eating (for the 93-th time)
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 89-th time)
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 0 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 3 is eating (for the 92-th time)
+Philosopher 4 is thinking
+Philosopher 0 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is eating (for the 94-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 3 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is eating (for the 93-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 3 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 94-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 3 is taking up his forks
+Philosopher 0 is thinking
+Philosopher 4 has no right to take up his forks
+Philosopher 3 is eating (for the 95-th time)
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 4 has no right to take up his forks
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 74-th time)
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 67-th time)
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 3 is taking up his forks
+Philosopher 4 is thinking
+Philosopher 3 is eating (for the 96-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 75-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 97-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 3 is thinking
+Philosopher 4 is taking up his forks
+Philosopher 3 is trying to gain his forks
+Philosopher 4 is eating (for the 68-th time)
+Philosopher 1 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 3 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 3 is thinking
+Philosopher 1 is eating (for the 76-th time)
+Philosopher 3 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is thinking
+Philosopher 1 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 95-th time)
+Philosopher 3 is taking up his forks
+Philosopher 0 is laying down his forks
+Philosopher 3 is eating (for the 98-th time)
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 96-th time)
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 99-th time)
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 3 is laying down his forks
+Philosopher 3 is thinking
+Philosopher 3 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 97-th time)
+Philosopher 3 is taking up his forks
+Philosopher 3 is eating (for the 100-th time)
+Philosopher 0 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 3 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 3 is going home
+Philosopher 0 is eating (for the 98-th time)
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 90-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 0 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 77-th time)
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 69-th time)
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 2 is eating (for the 91-th time)
+Philosopher 1 is thinking
+Philosopher 4 is taking up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is eating (for the 70-th time)
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 92-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 99-th time)
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 93-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 1 has no right to take up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 0 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 0 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 71-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 78-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 1 is laying down his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is eating (for the 94-th time)
+Philosopher 4 is taking up his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is eating (for the 72-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 4 is laying down his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 73-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 74-th time)
+Philosopher 2 is laying down his forks
+Philosopher 4 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 1 is taking up his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 1 is eating (for the 79-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 4 is eating (for the 75-th time)
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 2 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 2 is eating (for the 95-th time)
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 76-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 80-th time)
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 1 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 96-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 2 is laying down his forks
+Philosopher 0 is thinking
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is eating (for the 81-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 0 has no right to take up his forks
+Philosopher 0 is thinking
+Philosopher 1 is laying down his forks
+Philosopher 0 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is taking up his forks
+Philosopher 0 is eating (for the 100-th time)
+Philosopher 4 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 0 is laying down his forks
+Philosopher 4 is taking up his forks
+Philosopher 0 is going home
+Philosopher 4 is eating (for the 77-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 78-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 79-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 80-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 4 is taking up his forks
+Philosopher 2 is eating (for the 97-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 4 is eating (for the 81-th time)
+Philosopher 2 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 82-th time)
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 82-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 83-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 2 has no right to take up his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 84-th time)
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 98-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 83-th time)
+Philosopher 2 has no right to take up his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 99-th time)
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 85-th time)
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 has no right to take up his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is thinking
+Philosopher 2 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 86-th time)
+Philosopher 2 is taking up his forks
+Philosopher 2 is eating (for the 100-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 2 is laying down his forks
+Philosopher 2 is going home
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 84-th time)
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 85-th time)
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 86-th time)
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 87-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 87-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 88-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 88-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 89-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 89-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 90-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 90-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 91-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 91-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 92-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 92-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 93-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 93-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 94-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 94-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 95-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 95-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 96-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 96-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 1 is laying down his forks
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 97-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 97-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 98-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 98-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 4 is taking up his forks
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is eating (for the 99-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 99-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is thinking
+Philosopher 4 is trying to gain his forks
+Philosopher 1 is laying down his forks
+Philosopher 1 is thinking
+Philosopher 1 is trying to gain his forks
+Philosopher 4 is taking up his forks
+Philosopher 4 is eating (for the 100-th time)
+Philosopher 1 is taking up his forks
+Philosopher 1 is eating (for the 100-th time)
+Philosopher 4 is laying down his forks
+Philosopher 4 is going home
+Philosopher 1 is laying down his forks
+Philosopher 1 is going home
